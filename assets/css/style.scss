@@ -1,0 +1,26 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.label {
+    border-radius: 2px; 
+    padding: 0.15em 4px; 
+    font-size: 12px; 
+    display: inline-block!important; 
+    vertical-align: text-top!important;
+    margin: 0 auto;
+    display: block;
+}
+
+.label_submit {
+    background-color: #fbca04;
+}
+
+.label_revision {
+    background-color: #9ad02b;
+}
+
+.label_accept {
+    background-color: #39d651;
+}

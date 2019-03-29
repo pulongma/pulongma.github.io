@@ -6,6 +6,7 @@ title: Publications
 # Publications
 
 <ol start="1">
+  
 ## Submitted papers
 
 <li> <b>Ma, P.</b> and Kang, E. L. (2019) "Spatio-Temporal Data Fusion for Massive Sea Surface Temperature Data from MODIS and AMSR-E Instruments." <em>Environmetrics</em>, revision submitted. <a href="https://arxiv.org/abs/1809.04389" target="blank" style="color:blue;">PDF.</a> </li>

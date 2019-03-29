@@ -47,7 +47,7 @@ Education
 ======
 * Ph.D. in Statistics, University of Cincinnati, Cincinnati, OH, 2018 <br/>
   * Dissertation title: Hierarchical Additive Spatial and Spatio-Temporal Process Models for Massive Datasets
-  * Advisors: Dr. <a href="https://emilystat.wixsite.com/gdads/" target="blank">Emily L. Kang</a> and Dr. <a href="http://www.artsci.uc.edu/departments/math/fac_staff.html?eid=konomibr&thecomp=uceprof" target="blank">Bledar A. Konomi</a>
+  * Advisors: Dr. <a href="https://emilystat.wixsite.com/gdads/" target="blank">Emily L. Kang</a> and Dr. <a href="https://scholar.google.com/citations?user=lqnGbNkAAAAJ&hl=en" target="blank">Bledar A. Konomi</a>
 * B.S. in Computational Mathematics, Northeast Forestry University, China, 2013
 
 

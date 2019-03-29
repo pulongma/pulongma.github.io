@@ -4,7 +4,7 @@ title: Publications
 ---
 
 
-<ol start="1", compact="compact">
+<ol start="1">
   
 <h1>Submitted papers </h1>
 <p>

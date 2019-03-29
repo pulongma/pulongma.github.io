@@ -19,6 +19,6 @@ mathjax: true
     <ol>  
       <li> The International Conference on Advances in Interdisciplinary Statistics and Combinatorics, University of North Carolina at Greensboro, Greensboro, NC, <b>Invited Talk</b>, Oct 2018 </li>
       <li> The 2017 ICSA Applied Statistics Symposium, <b>Winner of Student Paper Competition</b>, Chicago, IL, July 2017 </li>
-      <li> IMAGe Brown Bag Seminar, National Center for Atmospheric Research, Boulder, CO, <b> Invited Talk</b>, June 2016 </li>
+      <li> IMAGe Brown Bag Seminar, National Center for Atmospheric Research, Boulder, CO, <b>Invited Talk</b>, June 2016 </li>
     </ol>
 </ul>

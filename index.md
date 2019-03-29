@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: HOME
 ---
 
 ![](./bio-photo.png){:width="200px"}

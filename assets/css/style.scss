@@ -3,6 +3,25 @@
 
 @import "{{ site.theme }}";
 
+body{
+  font-family: Helvetica;
+  font-size: 12pt;
+}
+/* Headers */
+h1{
+  font-size: 20pt;
+}
+
+/* Headers */
+h2{
+  font-size: 18pt;
+}
+
+/* Headers */
+h3{
+  font-size: 16pt;
+}
+
 .label {
     border-radius: 2px; 
     padding: 0.15em 4px; 

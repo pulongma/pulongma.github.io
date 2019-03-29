@@ -3,8 +3,10 @@ layout: default
 title: HOME
 ---
 
-![](./bio-photo.png){:width="200px"}
+![](./bio-photo.png){:width="200px"}  
 
+CV <a href="https://drive.google.com/file/d/1CWJgMHzdigze-134ThVYVk3PeMR3jFsT/view?usp=sharing" target="blank">
+======
 
 About Me
 ======

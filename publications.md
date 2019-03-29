@@ -33,9 +33,5 @@ title: PUBLICATIONS
   
 </p>
 
-<h1>Working papers </h1>
-<p>
-<li> <b>Ma, P.</b>,  Mondal, A., Konomi, B., Hobbs, J., Song, J. J., Kang, E. L. (2019+) "Statistical Emulation for High-Dimensional Functional Outputs in Large-Scale Observing System Uncertainty Experiments". In preparation. </li>
-</p>
 
 </ol>

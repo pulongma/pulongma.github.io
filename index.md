@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-![](./bio-photo.jpg){:width="200px"}
+![](./bio-photo.png){:width="200px"}
 
 
 About Me

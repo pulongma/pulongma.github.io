@@ -7,7 +7,6 @@ title: Publications
 <ol start="1">
   
 <h1>Submitted papers </h1>
-
 <li> <b>Ma, P.</b> and Kang, E. L. (2019) "Spatio-Temporal Data Fusion for Massive Sea Surface Temperature Data from MODIS and AMSR-E Instruments." <em>Environmetrics</em>, revision submitted. <a href="https://arxiv.org/abs/1809.04389" target="blank" style="color:blue;">PDF.</a> </li>
 
 <li> <b>Ma, P.</b> and Kang, E. L. (2019) "A Fused Gaussian Process Model for Very Large Spatial Data."  <em>Journal of Computational and Graphical Statistics</em>, second revision requested. <a href="https://arxiv.org/abs/1702.08797" target="blank" style="color:blue;">PDF.</a> (Winner of Student Paper Competition in the 2017 ICSA Applied Statistics Symposium)
@@ -15,7 +14,6 @@ title: Publications
 
 
 <h1>Peer-reviewed and published papers </h1>
-
 <li> <b>Ma, P.</b>, Konomi, B., and Kang, E. L. (2019) "An Additive Approximate Gaussian Process for Large Spatio-Temporal Data." <em>Environmetrics</em>, accepted. <a href="https://arxiv.org/abs/1801.00319" target="blank" style="color:blue;">PDF.</a> </li>
 
 <li> Konomi, B., Hanandeh, A. A., <b>Ma, P.</b>, and Kang, E. L. (2019) "Computationally Efficient Nonstationary Nearest Neighbor Gaussian Process Models Using Data-Driven Techniques." <em>Environmetrics</em>, accepted. </li>

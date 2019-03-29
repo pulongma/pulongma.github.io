@@ -4,6 +4,11 @@ title: TEACHING
 ---
 
 <ul>
+  <li> The Statistical and Applied Mathematical Sciences Institute, Durham, NC </li>
+  <ul>
+    <li> Hands-on session on R in the Story of Data Science and Machine Learning Workshop, Mar 2019 </li>
+    <li> Lecture on R tutorials in the Undergraduate Workshop on Uncertainty Quantification, Feb 2019 </li>
+  </ul>
   <li> Department of Mathematical Sciences, University of Cincinnati </li>
   <ul>
    <li> Instructor, MATH 1014 - Mathematics of Social Choice, Spring 2018 </li>

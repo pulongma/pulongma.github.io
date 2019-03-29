@@ -6,7 +6,7 @@ title: Publications
 
 <ol start="1">
   
-<h> Submitted papers </h>
+<h1>Submitted papers </h1>
 
 <li> <b>Ma, P.</b> and Kang, E. L. (2019) "Spatio-Temporal Data Fusion for Massive Sea Surface Temperature Data from MODIS and AMSR-E Instruments." <em>Environmetrics</em>, revision submitted. <a href="https://arxiv.org/abs/1809.04389" target="blank" style="color:blue;">PDF.</a> </li>
 
@@ -14,7 +14,7 @@ title: Publications
 </li>
 
 
-<h1> Peer-reviewed and published papers </h1>
+<h1>Peer-reviewed and published papers </h1>
 
 <li> <b>Ma, P.</b>, Konomi, B., and Kang, E. L. (2019) "An Additive Approximate Gaussian Process for Large Spatio-Temporal Data." <em>Environmetrics</em>, accepted. <a href="https://arxiv.org/abs/1801.00319" target="blank" style="color:blue;">PDF.</a> </li>
 
@@ -26,12 +26,13 @@ title: Publications
 </li>
 
 
-<h1> Working papers </h1>
+<h1>Technical report </h1>
+
+<li> Kaufman, W., <b>Ma, P.</b>, Hammerling, D., and Lombardozzi, D. (2016) "Ozone and Foliar Damage Analysis: NCAR and St. Louis." <em>NCAR Technical Note NCAR/TN-530+STR</em>, 31 pp, doi: 10.5072/FK2TX3B723. <a href="http://dx.doi.org/10.5065/D6WH2NCQ" target="blank" style="color:blue;">PDF.</a> </li>
+
+<h1>Working papers </h1>
 
 <li> <b>Ma, P.</b>,  Mondal, A., Konomi, B., Hobbs, J., Song, J. J., Kang, E. L. (2019+) "Statistical Emulation for High-Dimensional Functional Outputs in Large-Scale Observing System Uncertainty Experiments". In preparation. </li>
 
 
-<h1> Technical report </h1>
-
-<li> Kaufman, W., <b>Ma, P.</b>, Hammerling, D., and Lombardozzi, D. (2016) "Ozone and Foliar Damage Analysis: NCAR and St. Louis." <em>NCAR Technical Note NCAR/TN-530+STR</em>, 31 pp, doi: 10.5072/FK2TX3B723. <a href="http://dx.doi.org/10.5065/D6WH2NCQ" target="blank" style="color:blue;">PDF.</a> </li>
 </ol>

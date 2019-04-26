@@ -10,15 +10,15 @@ title: PUBLICATIONS
 <p>
 <li> <b>Ma, P.</b> and Kang, E. L. (2019) "Spatio-Temporal Data Fusion for Massive Sea Surface Temperature Data from MODIS and AMSR-E Instruments." <em>Environmetrics</em>, revision submitted. <a href="https://arxiv.org/abs/1809.04389" target="blank" style="color:blue;">PDF.</a> </li>
 
-<li> <b>Ma, P.</b> and Kang, E. L. (2019) "A Fused Gaussian Process Model for Very Large Spatial Data."  <em>Journal of Computational and Graphical Statistics</em>, second revision requested. <a href="https://arxiv.org/abs/1702.08797" target="blank" style="color:blue;">PDF.</a> (Winner of Student Paper Competition in the 2017 ICSA Applied Statistics Symposium)
+<li> <b>Ma, P.</b> and Kang, E. L. (2019) "A Fused Gaussian Process Model for Very Large Spatial Data."  <em>Journal of Computational and Graphical Statistics</em>, second revision requested. <a href="https://arxiv.org/abs/1702.08797" target="blank" style="color:blue;">PDF.</a> (Winner of the Student Paper Competition in the 2017 ICSA Applied Statistics Symposium)
 </li>
 </p>
 
 <h1>Peer-reviewed and published papers </h1>
 <p>
-<li> <b>Ma, P.</b>, Konomi, B., and Kang, E. L. (2019) "An Additive Approximate Gaussian Process for Large Spatio-Temporal Data." <em>Environmetrics</em>, accepted. <a href="https://arxiv.org/abs/1801.00319" target="blank" style="color:blue;">PDF.</a> </li>
+<li> <b>Ma, P.</b>, Konomi, B., and Kang, E. L. (2019) "An Additive Approximate Gaussian Process for Large Spatio-Temporal Data." <em>Environmetrics</em>, DOI:10.1002/env.2569. <a href="https://doi.org/10.1002/env.2571" target="blank" style="color:blue;">PDF.</a> </li>
 
-<li> Konomi, B., Hanandeh, A. A., <b>Ma, P.</b>, and Kang, E. L. (2019) "Computationally Efficient Nonstationary Nearest Neighbor Gaussian Process Models Using Data-Driven Techniques." <em>Environmetrics</em>, accepted. </li>
+<li> Konomi, B., Hanandeh, A. A., <b>Ma, P.</b>, and Kang, E. L. (2019) "Computationally Efficient Nonstationary Nearest Neighbor Gaussian Process Models Using Data-Driven Techniques." <em>Environmetrics</em>, DOI:10.1002/env.2571. <a href="https://doi.org/10.1002/env.2571" target="blank" style="color:blue;">PDF.</a> </li>
 
 <li> Cawse-Nicholson, K., Fisher, J. B., Famiglietti, C. A., Braverman, A., Schwandner, F. M., Lewicki, J. L., Townsend, P. A., Schimel, D. S., Pavlick, R., Bormann, K. J., Ferraz, A., Kang, E. L., <b>Ma, P.</b>, Bogue, R. R., Youmans, T., and Pieri, D. C. (2018) "Ecosystem Responses to Elevated CO2 Using Airborne Remote Sensing at Mammoth Mountain, California." <em>Biogeosciences</em>, 15, 7403-7418. <a href="https://doi.org/10.5194/bg-2018-73" target="blank" style="color:blue;">PDF.</a> </li>
 

@@ -5,7 +5,7 @@ title: HOME
 
 ![](./bio-photo.png){:width="200px"}  
 
-<h1> <a href="https://drive.google.com/file/d/1CWJgMHzdigze-134ThVYVk3PeMR3jFsT/view?usp=sharing" target="blank">CV </a> </h1>
+<h1> <a href="https://drive.google.com/file/d/1CWJgMHzdigze-134ThVYVk3PeMR3jFsT/view?usp=sharing" target="blank">Curriculum Vitae </a> </h1>
 
 About Me
 ======

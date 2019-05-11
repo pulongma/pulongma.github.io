@@ -30,7 +30,7 @@ Statistical and Applied Mathematical Sciences Institute <br/>
 4051 Research Commons, Suite 300 <br/>
 79 T.W. Alexander Drive, P.O. Box 110207 <br/>
 Durham, NC 27709 <br/>
-Email: pma [at] samsi.info <br/>
+Email: pulong.ma [at] duke.edu <br/>
 <!-- <a href="http://mapn.github.io/files/PulongMa_CV.pdf" target="blank">Curriculum Vitae</a> -->
 
 

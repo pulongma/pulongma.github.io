@@ -19,7 +19,7 @@ title: PUBLICATIONS
 
 <li> Konomi, B., Hanandeh, A. A., <b>Ma, P.</b>, and Kang, E. L. (2019) "Computationally Efficient Nonstationary Nearest Neighbor Gaussian Process Models Using Data-Driven Techniques." <em>Environmetrics</em>, DOI:10.1002/env.2571. <a href="https://doi.org/10.1002/env.2571" target="blank" style="color:blue;">PDF.</a> </li>
 
-<li> <b>Ma, P.</b>, Konomi, B., and Kang, E. L. (2019) "An Additive Approximate Gaussian Process Model for Large Spatio-Temporal Data." <em>Environmetrics</em>, DOI:10.1002/env.2569. <a href="https://doi.org/10.1002/env.2571" target="blank" style="color:blue;">PDF.</a> </li>
+<li> <b>Ma, P.</b>, Konomi, B., and Kang, E. L. (2019) "An Additive Approximate Gaussian Process Model for Large Spatio-Temporal Data." <em>Environmetrics</em>, DOI:10.1002/env.2569. <a href="https://doi.org/10.1002/env.2569" target="blank" style="color:blue;">PDF.</a> </li>
 
 <li> Cawse-Nicholson, K., Fisher, J. B., Famiglietti, C. A., Braverman, A., Schwandner, F. M., Lewicki, J. L., Townsend, P. A., Schimel, D. S., Pavlick, R., Bormann, K. J., Ferraz, A., Kang, E. L., <b>Ma, P.</b>, Bogue, R. R., Youmans, T., and Pieri, D. C. (2018) "Ecosystem Responses to Elevated CO2 Using Airborne Remote Sensing at Mammoth Mountain, California." <em>Biogeosciences</em>, 15, 7403-7418. <a href="https://doi.org/10.5194/bg-2018-73" target="blank" style="color:blue;">PDF.</a> </li>
 

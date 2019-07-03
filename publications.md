@@ -18,7 +18,7 @@ title: PUBLICATIONS
 
 <li> Konomi, B., Hanandeh, A. A., <b>Ma, P.</b>, and Kang, E. L. (2019) "Computationally Efficient Nonstationary Nearest Neighbor Gaussian Process Models Using Data-Driven Techniques." <em>Environmetrics</em>, DOI:10.1002/env.2571. <a href="https://doi.org/10.1002/env.2571" target="blank" style="color:blue;">PDF.</a> </li>
 
-<li> <b>Ma, P.</b> and Kang, E. L. (2019) "Spatio-Temporal Data Fusion for Massive Sea Surface Temperature Data from MODIS and AMSR-E Instruments." <em>Environmetrics</em>, forthcoming. <a href="https://arxiv.org/abs/1809.04389" target="blank" style="color:blue;">PDF.</a> </li>
+<li> <b>Ma, P.</b> and Kang, E. L. (2019) "Spatio-Temporal Data Fusion for Massive Sea Surface Temperature Data from MODIS and AMSR-E Instruments." <em>Environmetrics</em>, DOI:10.1002/env.2594. <a href="https://doi.org/10.1002/env.2594" target="blank" style="color:blue;">PDF.</a> </li>
 
 <li> <b>Ma, P.</b>, Konomi, B., and Kang, E. L. (2019) "An Additive Approximate Gaussian Process Model for Large Spatio-Temporal Data." <em>Environmetrics</em>, DOI:10.1002/env.2569. <a href="https://doi.org/10.1002/env.2569" target="blank" style="color:blue;">PDF.</a> </li>
 

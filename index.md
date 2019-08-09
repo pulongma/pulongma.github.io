@@ -17,7 +17,7 @@ I am currently a Postdoctoral Fellow at the Statistical and Applied Mathematical
   <li> Spatial and spatio-temporal statistics: nonstationary space-time processes, dynamic spatio-temporal models, multivariate models, downscaling, data fusion. </li>
 </ul>
 
-In July 2018, I got my Ph.D. in Statistics from University of Cincinnati under the guidance of Dr. Emily L. Kang and Dr. Bledar A. Konomi. During my Ph.D., I have worked on spatial and spatio-temporal statistics with applications in remote-sensing science, climate science, and environmental science. In particular, I developed flexible (e.g., nonstationary and nonseparable) spatial and spatio-temporal process models for massive datasets. I also proposed a statistical downscaling framework to simulate high-resolution geophysical processes with applications in global observing system simulation experiments.    
+In July 2018, I got my Ph.D. in Statistics from University of Cincinnati under the guidance of Dr. Emily L. Kang and Dr. Bledar A. Konomi. During my Ph.D., I have worked on spatial and spatio-temporal statistics with applications in remote sensing science, climate science, and environmental science. In particular, I developed flexible (e.g., nonstationary and nonseparable) spatial and spatio-temporal process models for massive datasets. I also proposed a statistical downscaling framework to simulate high-resolution geophysical processes with applications in global observing system simulation experiments.    
 <br/>
 
 

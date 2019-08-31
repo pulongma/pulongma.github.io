@@ -12,7 +12,7 @@ title: PUBLICATIONS
 <li> <b> Ma, P. </b> (2019) "Objective Bayesian Analysis of a Cokriging Model for Hierarchical Multifidelity Codes." Submitted. 
 </li>
 
-<li> <b> Ma, P.</b>, Karagiannis, G., Konomi, B. A., Asher, T. G., Toro, G. R., Cox, A. T., and Berger, J. O. (2019) "Multifidelity Computer Model Emulation with High-Dimensional Output." Submitted. 
+<li> <b> Ma, P.</b>, Karagiannis, G., Konomi, B. A., Asher, T. G., Toro, G. R., and Cox, A. T. (2019) "Multifidelity Computer Model Emulation with High-Dimensional Output." Submitted. 
 </li> 
 
 <li> <b>Ma, P.</b> and Kang, E. L. (2019) "A Fused Gaussian Process Model for Very Large Spatial Data."  <em>Journal of Computational and Graphical Statistics</em>, second revision requested. <a href="https://arxiv.org/abs/1702.08797" target="blank" style="color:blue;">PDF.</a> (Early version wins the Student Paper Competition in the 2017 ICSA Applied Statistics Symposium)

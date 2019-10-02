@@ -25,8 +25,6 @@ title: PUBLICATIONS
 <p>
 
 <li> <b>Ma, P.</b> and Kang, E. L. (2019) "A Fused Gaussian Process Model for Very Large Spatial Data."  <em>Journal of Computational and Graphical Statistics</em>, forthcoming. <a href="https://arxiv.org/abs/1702.08797" target="blank" style="color:blue;">PDF.</a> (Early version wins the Student Paper Competition in the 2017 ICSA Applied Statistics Symposium)
-  <li> Early version wins the Student Paper Competition in the 2017 ICSA Applied Statistics Symposium </li>
-  <li> Early version wins Honorable Mention in Student Paper Competition in the 2016 Section on Statistics and the Environment of American Statistical Association </li>
 </li>
 
 <li> Konomi, B., Hanandeh, A. A., <b>Ma, P.</b>, and Kang, E. L. (2019) "Computationally Efficient Nonstationary Nearest Neighbor Gaussian Process Models Using Data-Driven Techniques." <em>Environmetrics</em>, DOI:10.1002/env.2571. <a href="https://doi.org/10.1002/env.2571" target="blank" style="color:blue;">PDF.</a> </li>
@@ -35,7 +33,7 @@ title: PUBLICATIONS
 
 <li> <b>Ma, P.</b>, Konomi, B., and Kang, E. L. (2019) "An Additive Approximate Gaussian Process Model for Large Spatio-Temporal Data." <em>Environmetrics</em>, DOI:10.1002/env.2569. <a href="https://doi.org/10.1002/env.2569" target="blank" style="color:blue;">PDF.</a> </li>
 
-<li> <b>Ma, P.</b>, Kang, E. L., Braverman, A., and Nguyen, H. (2018) "Spatial Statistical Downscaling for Constructing High-resolution Nature Runs in Global Observing System Simulation Experiments." <em>Technometrics</em>, 61(3), 322-340. <a href="https://doi.org/10.1080/00401706.2018.1524791" target="blank" style="color:blue;">PDF.</a> (Winner of Student Paper Competition in the 2018 American Statistical Association Section on Statistics and the Environment)
+<li> <b>Ma, P.</b>, Kang, E. L., Braverman, A., and Nguyen, H. (2018) "Spatial Statistical Downscaling for Constructing High-resolution Nature Runs in Global Observing System Simulation Experiments." <em>Technometrics</em>, 61(3), 322-340. <a href="https://doi.org/10.1080/00401706.2018.1524791" target="blank" style="color:blue;">PDF.</a> (Early version Wins Student Paper Competition in the 2018 American Statistical Association Section on Statistics and the Environment)
 </li>
 
 <li> Cawse-Nicholson, K., Fisher, J. B., Famiglietti, C. A., Braverman, A., Schwandner, F. M., Lewicki, J. L., Townsend, P. A., Schimel, D. S., Pavlick, R., Bormann, K. J., Ferraz, A., Kang, E. L., <b>Ma, P.</b>, Bogue, R. R., Youmans, T., and Pieri, D. C. (2018) "Ecosystem Responses to Elevated CO2 Using Airborne Remote Sensing at Mammoth Mountain, California." <em>Biogeosciences</em>, 15, 7403-7418. <a href="https://doi.org/10.5194/bg-2018-73" target="blank" style="color:blue;">PDF.</a> 

@@ -4,8 +4,8 @@
 @import "{{ site.theme }}";
 
 body{
-  font-family: "Times New Roman", Times, serif;
-  font-size: 11pt;
+  font-family: Arial;
+  font-size: 12pt;
 }
 
 
@@ -20,12 +20,9 @@ h2{
   font-size: 14pt;
 }
 
-h3{
-  font-size: 12pt;
-}
 
 p{
-  font-size: 11pt;
+  font-size: 12pt;
 }
 
 .label {

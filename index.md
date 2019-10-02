@@ -9,7 +9,7 @@ title: HOME
 
 About Me
 ======
-I am currently a Postdoctoral Fellow at the Statistical and Applied Mathematical Sciences Institute (SAMSI) and Duke University, where I am participating in the program on <a href="https://www.samsi.info/programs-and-activities/year-long-research-programs/model-uncertainty-mathematical-statistical-mums/" target="blank">Model Uncertainty: Mathematical and Statistical</a> (MUMS). I am working on the following areas: 
+I am currently a Postdoctoral Fellow at the Statistical and Applied Mathematical Sciences Institute (SAMSI) and Duke University, where I was participating in the program on <a href="https://www.samsi.info/programs-and-activities/year-long-research-programs/model-uncertainty-mathematical-statistical-mums/" target="blank">Model Uncertainty: Mathematical and Statistical</a> (MUMS) in 2018-2019 under the guidance of Dr. James O. Berger at Duke University. Before that, I got my Ph.D. in Statistics in 2018 at University of Cincinnati under the guidance of Dr. Emily L. Kang and Dr. Bledar A. Konomi with dissertation topic in spatial and spatio-temporal statistics. My current research areas include: 
 <ul>
   <li> Uncertainty Quantification (UQ): Extrapolation, Gaussian process emulator with physical constraints, Experimental design, computer model emulation, discrepancy, Bayesian calibration, design and analysis of stochastic simulators, Bayesian inverse problem, UQ for deep learning models</li>
   <li> Bayesian Statistics: Bayesian decision theory, objective Bayes, Bayesian hierarchical modeling and computation, Bayesian variable selection, scalable Markov chain Monte Carlo methods, Bayesian deep learning, model uncertainty </li>

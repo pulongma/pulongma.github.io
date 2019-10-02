@@ -6,7 +6,6 @@
 body{
   font-family: Arial;
   font-size: 12pt;
-  width: 85%;
 }
 
 
@@ -47,3 +46,11 @@ p{
 .label_accept {
     background-color: #39d651;
 }
+
+.content {
+  max-width: 600px;
+  margin: auto;
+  background: white;
+  padding: 100px;
+}
+

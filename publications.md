@@ -25,6 +25,8 @@ title: PUBLICATIONS
 <p>
 
 <li> <b>Ma, P.</b> and Kang, E. L. (2019) "A Fused Gaussian Process Model for Very Large Spatial Data."  <em>Journal of Computational and Graphical Statistics</em>, forthcoming. <a href="https://arxiv.org/abs/1702.08797" target="blank" style="color:blue;">PDF.</a> (Early version wins the Student Paper Competition in the 2017 ICSA Applied Statistics Symposium)
+  <li> Early version wins the Student Paper Competition in the 2017 ICSA Applied Statistics Symposium </li>
+  <li> Early version wins Honorable Mention in Student Paper Competition in the 2016 Section on Statistics and the Environment of American Statistical Association </li>
 </li>
 
 <li> Konomi, B., Hanandeh, A. A., <b>Ma, P.</b>, and Kang, E. L. (2019) "Computationally Efficient Nonstationary Nearest Neighbor Gaussian Process Models Using Data-Driven Techniques." <em>Environmetrics</em>, DOI:10.1002/env.2571. <a href="https://doi.org/10.1002/env.2571" target="blank" style="color:blue;">PDF.</a> </li>

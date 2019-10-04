@@ -6,20 +6,7 @@ title: PUBLICATIONS
 
 <ol start="1">
   
-<h1>Submitted papers </h1>
-<p>
 
-<li> 
-  <b> Ma, P. </b>, Mondal, A., Konomi, B. A., Hobbs, J., Song, J. J., and Kang, E. L. (2019) "Computer Model Emulation with High-Dimensional Functional Output in Large-Scale Observing System Uncertainty Experiments." Submitted.
-</li> 
-
-<li> <b> Ma, P. </b> (2019) "Objective Bayesian Analysis of a Cokriging Model for Hierarchical Multifidelity Codes." Submitted. 
-</li>
-
-<li> <b> Ma, P.</b>, Karagiannis, G., Konomi, B. A., Asher, T. G., Toro, G. R., and Cox, A. T. (2019) "Multifidelity Computer Model Emulation with High-Dimensional Output: An Application to Storm Surge." Submitted. 
-</li> 
-
-</p>
 
 <h1>Peer-reviewed and published papers </h1>
 <p>
@@ -39,6 +26,22 @@ title: PUBLICATIONS
 <li> Cawse-Nicholson, K., Fisher, J. B., Famiglietti, C. A., Braverman, A., Schwandner, F. M., Lewicki, J. L., Townsend, P. A., Schimel, D. S., Pavlick, R., Bormann, K. J., Ferraz, A., Kang, E. L., <b>Ma, P.</b>, Bogue, R. R., Youmans, T., and Pieri, D. C. (2018) "Ecosystem Responses to Elevated CO2 Using Airborne Remote Sensing at Mammoth Mountain, California." <em>Biogeosciences</em>, 15, 7403-7418. <a href="https://doi.org/10.5194/bg-2018-73" target="blank" style="color:blue;">PDF.</a> 
 </li>
 
+
+</p>
+
+
+<h1>Submitted papers </h1>
+<p>
+
+<li> 
+  <b> Ma, P. </b>, Mondal, A., Konomi, B. A., Hobbs, J., Song, J. J., and Kang, E. L. (2019) "Computer Model Emulation with High-Dimensional Functional Output in Large-Scale Observing System Uncertainty Experiments." Submitted.
+</li> 
+
+<li> <b> Ma, P. </b> (2019) "Objective Bayesian Analysis of a Cokriging Model for Hierarchical Multifidelity Codes." Submitted. 
+</li>
+
+<li> <b> Ma, P.</b>, Karagiannis, G., Konomi, B. A., Asher, T. G., Toro, G. R., and Cox, A. T. (2019) "Multifidelity Computer Model Emulation with High-Dimensional Output: An Application to Storm Surge." Submitted. 
+</li> 
 
 </p>
 

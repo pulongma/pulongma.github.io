@@ -6,6 +6,8 @@ title: TEACHING
 <ul>
   <li> The Statistical and Applied Mathematical Sciences Institute, Durham, NC </li>
   <ul>
+    <li> Faculty mentor, The 25th Industrial Mathematical and Statistical Modeling Workshop, North Carolina State University, NC, July 2019 </li>
+    <li> Project leader on Predictive Modeling for Tropical Cyclones with Historical Storm Data, Undergraduate Modeling Workshop, May 2019 </li> 
     <li> Hands-on session on R in the Story of Data Science and Machine Learning Workshop, Mar 2019 </li>
     <li> Lecture on R tutorials in the Undergraduate Workshop on Uncertainty Quantification, Feb 2019 </li>
   </ul>

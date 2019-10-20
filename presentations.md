@@ -26,7 +26,7 @@ mathjax: true
    
 <li> Contributed, "Fused Gaussian Process for Very Large Spatial Data", The 2017 ICSA Applied Statistics Symposium, <b>Winner of Student Paper Competition</b>, Chicago, IL, July 2017 </li>
    
-<li> Invited Talk, "Fused Gaussian Process for Very Large Spatial Data", Joint Statistical Meetings, Chicago, IL, July 2016 </li>
+<li> Contributed Talk, "Fused Gaussian Process for Very Large Spatial Data", Joint Statistical Meetings, Chicago, IL, July 2016 </li>
     
 <li> <b>Invited Talk</b>, "Fused Gaussian Process for Very Large Spatial Data", IMAGe Brown Bag Seminar, National Center for Atmospheric Research, Boulder, CO,  June 2016 </li>
 

@@ -11,7 +11,7 @@ mathjax: true
  
 <li>  Contributed Talk, "Multifidelity Computer Model Emulation with High-Dimensional Output: An Application to Storm Surge", Joint Statistical Meetings, Denver, CO,  Aug 2019  </li> 
    
-<li> Invited Talk, "An Emulator Approach to Quantifying the Risk Due to Storm Surge", The SAMSI MUMS Transition Workshop and SPUQ, University of North Carolina at Chapel Hill, NC </li>
+<li> <b>Invited Talk</b>, "An Emulator Approach to Quantifying the Risk Due to Storm Surge", The SAMSI MUMS Transition Workshop and SPUQ, University of North Carolina at Chapel Hill, NC </li>
   
 <li> Lecture, "Spatial Statistical Downscaling for Constructing High-Resolution Nature Runs in Global Observing System Simulation Experiments", The 2018 SIAM Conference on Uncertainty Quantification, Garden Grove, CA, <b>SIAM Student Travel Award</b>, April 2018 </li>
   
@@ -28,6 +28,8 @@ mathjax: true
 <li> Invited Talk, "Fused Gaussian Process for Very Large Spatial Data", Joint Statistical Meetings, Chicago, IL, 2016 </li>
     
 <li> <b>Invited Talk</b>, "Fused Gaussian Process for Very Large Spatial Data", IMAGe Brown Bag Seminar, National Center for Atmospheric Research, Boulder, CO,  June 2016 </li>
+
+<li> Contributed, "Conditional Simulation for Downscaling Very Large Spatial Data", Joint Statistical Meetings, Seattle, WA, Aug 2015 </li> 
     
     
 </ul>

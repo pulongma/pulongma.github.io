@@ -20,7 +20,7 @@ title: PUBLICATIONS
 
 <li> <b>Ma, P.</b>, Konomi, B., and Kang, E. L. (2019) "An Additive Approximate Gaussian Process Model for Large Spatio-Temporal Data." <em>Environmetrics</em>, DOI:10.1002/env.2569. <a href="https://doi.org/10.1002/env.2569" target="blank" style="color:blue;">PDF.</a> </li>
 
-<li> <b>Ma, P.</b>, Kang, E. L., Braverman, A., and Nguyen, H. (2018) "Spatial Statistical Downscaling for Constructing High-Resolution Nature Runs in Global Observing System Simulation Experiments." <em>Technometrics</em>, 61(3), 322-340. <a href="https://doi.org/10.1080/00401706.2018.1524791" target="blank" style="color:blue;">PDF.</a> (Early version wins the Student Paper Competition in the 2018 American Statistical Association Section on Statistics and the Environment)
+<li> <b>Ma, P.</b>, Kang, E. L., Braverman, A., and Nguyen, H. (2019) "Spatial Statistical Downscaling for Constructing High-Resolution Nature Runs in Global Observing System Simulation Experiments." <em>Technometrics</em>, 61(3), 322-340. <a href="https://doi.org/10.1080/00401706.2018.1524791" target="blank" style="color:blue;">PDF.</a> (Early version wins the Student Paper Competition in the 2018 American Statistical Association Section on Statistics and the Environment)
 </li>
 
 <li> Cawse-Nicholson, K., Fisher, J. B., Famiglietti, C. A., Braverman, A., Schwandner, F. M., Lewicki, J. L., Townsend, P. A., Schimel, D. S., Pavlick, R., Bormann, K. J., Ferraz, A., Kang, E. L., <b>Ma, P.</b>, Bogue, R. R., Youmans, T., and Pieri, D. C. (2018) "Ecosystem Responses to Elevated CO2 Using Airborne Remote Sensing at Mammoth Mountain, California." <em>Biogeosciences</em>, 15, 7403-7418. <a href="https://doi.org/10.5194/bg-2018-73" target="blank" style="color:blue;">PDF.</a> 

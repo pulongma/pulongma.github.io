@@ -43,6 +43,9 @@ title: PUBLICATIONS
 <li> <b> Ma, P.</b>, Karagiannis, G., Konomi, B. A., Asher, T. G., Toro, G. R., and Cox, A. T. (2019) "Multifidelity Computer Model Emulation with High-Dimensional Output: An Application to Storm Surge." Submitted. 
 </li> 
 
+<li> <b> Ma, P. </b> and Bhadra, A. (2019) "Kriging: Beyond Mat&eacute;rn." Submitted. 
+</li>
+
 </p>
 
 <h1>Technical report </h1>

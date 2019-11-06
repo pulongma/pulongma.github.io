@@ -34,16 +34,16 @@ title: PUBLICATIONS
 <p>
 
 <li> 
-  <b> Ma, P. </b>, Mondal, A., Konomi, B. A., Hobbs, J., Song, J. J., and Kang, E. L. (2019) "Computer Model Emulation with High-Dimensional Functional Output in Large-Scale Observing System Uncertainty Experiments." Submitted.
+  <b> Ma, P. </b>, Mondal, A., Konomi, B. A., Hobbs, J., Song, J. J., and Kang, E. L. (2019) "Computer Model Emulation with High-Dimensional Functional Output in Large-Scale Observing System Uncertainty Experiments." Under review.
 </li> 
 
-<li> <b> Ma, P. </b> (2019) "Objective Bayesian Analysis of a Cokriging Model for Hierarchical Multifidelity Codes." Submitted. 
+<li> <b> Ma, P. </b> (2019) "Objective Bayesian Analysis of a Cokriging Model for Hierarchical Multifidelity Codes." Under review. 
 </li>
 
-<li> <b> Ma, P.</b>, Karagiannis, G., Konomi, B. A., Asher, T. G., Toro, G. R., and Cox, A. T. (2019) "Multifidelity Computer Model Emulation with High-Dimensional Output: An Application to Storm Surge." Submitted. 
+<li> <b> Ma, P.</b>, Karagiannis, G., Konomi, B. A., Asher, T. G., Toro, G. R., and Cox, A. T. (2019) "Multifidelity Computer Model Emulation with High-Dimensional Output: An Application to Storm Surge." Under review.
 </li> 
 
-<li> <b> Ma, P. </b> and Bhadra, A. (2019) "Kriging: Beyond Mat&eacute;rn." Submitted. 
+<li> <b> Ma, P. </b> and Bhadra, A. (2019) "Kriging: Beyond Mat&eacute;rn." Under review. 
 </li>
 
 </p>

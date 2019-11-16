@@ -23,7 +23,7 @@ mathjax: true
    
 <li> <b>Invited Talk</b>, "A Fused Gaussian Process Model for Very Large Spatial Data", The International Conference on Advances in Interdisciplinary Statistics and Combinatorics, University of North Carolina at Greensboro, Greensboro, NC,  Oct 2018 </li>
    
-<li> Invited Talk, "Fused Gaussian Process for Very Large Spatial Data", The 2017 ICSA Applied Statistics Symposium, <b>Winner of Student Paper Competition</b>, Chicago, IL, July 2017 </li>
+<li> <b>Invited Talk</b>, "Fused Gaussian Process for Very Large Spatial Data", The 2017 ICSA Applied Statistics Symposium, <b>Winner of Student Paper Competition</b>, Chicago, IL, July 2017 </li>
    
 <li> Contributed Talk, "Fused Gaussian Process for Very Large Spatial Data", Joint Statistical Meetings, Chicago, IL, July 2016 </li>
     

@@ -43,7 +43,7 @@ title: PUBLICATIONS
 </li> 
 
 <li> 
-  <b> Ma, P. </b>, Mondal, A., Konomi, B. A., Hobbs, J., Song, J. J., and Kang, E. L. (2019) "Computer Model Emulation with High-Dimensional Functional Output in Large-Scale Observing System Uncertainty Experiments." Under review. <a href="https://drive.google.com/open?id=1issS2wlfnsE6XH5YvnQYPb2z9jw54t3e" target="blank" style="color:blue;">PDF.</a>
+  <b> Ma, P. </b>, Mondal, A., Konomi, B. A., Hobbs, J., Song, J. J., and Kang, E. L. (2019) "Computer Model Emulation with High-Dimensional Functional Output in Large-Scale Observing System Uncertainty Experiments." Under review. <a href="https://arxiv.org/abs/1911.09274" target="blank" style="color:blue;">PDF.</a>
 </li> 
 
 </p>

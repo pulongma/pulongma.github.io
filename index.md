@@ -41,7 +41,7 @@ Employment
 Postdoctoral Fellow, <a href="https://www.samsi.info/programs-and-activities/year-long-research-programs/model-uncertainty-mathematical-statistical-mums/" target="blank">MUMS program</a>, Aug 2018 - Present 
 * Duke University, Durham, NC <br/>
 Postdoctoral Fellow, Department of Statistical Science, Aug 2018 - Present <br/>
-Mentor: Dr. <a href="https://stat.duke.edu/people/james-o-berger" target="blank">James O. Berger</a>
+Mentor: Dr. <a href="https://stat.duke.edu/people/james-o-berger" target="blank">James O. Berger</a>, Arts and Sciences Distinguished Professor of Statistics
 
 
 Education

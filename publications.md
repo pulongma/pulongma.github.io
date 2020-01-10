@@ -36,7 +36,7 @@ title: PUBLICATIONS
 <li> <b> Ma, P.</b> and Bhadra, A. (2019) "Kriging: Beyond Mat&eacute;rn." Under review. <a href="https://arxiv.org/abs/1911.05865" target="blank" style="color:blue;">PDF.</a>
 </li>
   
-<li> <b> Ma, P.</b> (2019) "Objective Bayesian Analysis of a Cokriging Model for Hierarchical Multifidelity Codes." Under review. <a href="https://arxiv.org/abs/1910.10225" target="blank" style="color:blue;">PDF.</a>
+<li> <b> Ma, P.</b> (2019) "Objective Bayesian Analysis of a Cokriging Model for Hierarchical Multifidelity Codes." Invited Revision for the <em>SIAM/ASA Journal on Uncertainty Quantification</em>. <a href="https://arxiv.org/abs/1910.10225" target="blank" style="color:blue;">PDF.</a>
 </li>
 
 <li> <b> Ma, P.</b>, Karagiannis, G., Konomi, B. A., Asher, T. G., Toro, G. R., and Cox, A. T. (2019) "Multifidelity Computer Model Emulation with High-Dimensional Output: An Application to Storm Surge." Invited Revision for <em>the Annals of Applied Statistics</em>. <a href="https://arxiv.org/abs/1909.01836" target="blank" style="color:blue;">PDF.</a>

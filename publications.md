@@ -11,7 +11,7 @@ title: PUBLICATIONS
 <p>
 
 <li>
-  Baker, E., Barbillon, P., Fadikar, A., Gramacy, R. B., Herbei, R., Higdon, D., Huang, J., Johnson, L. R., <b>Ma, P.</b>, Mondal, A., Pires, B., Sacks, J., and Sokolov, V. (2020) ``Stochastic Simulators: An Overview with Opportunities." Under review. <a href="https://arxiv.org/abs/2002.01321" target="blank" style="color:blue;">arXiv:2002.01321.</a>
+  Baker, E., Barbillon, P., Fadikar, A., Gramacy, R. B., Herbei, R., Higdon, D., Huang, J., Johnson, L. R., <b>Ma, P.</b>, Mondal, A., Pires, B., Sacks, J., and Sokolov, V. (2020) "Stochastic Simulators: An Overview with Opportunities." Under review. <a href="https://arxiv.org/abs/2002.01321" target="blank" style="color:blue;">arXiv:2002.01321.</a>
 </li>
 
 <li> <b> Ma, P.</b> and Bhadra, A. (2019) "Kriging: Beyond Mat&eacute;rn." Under review. <a href="https://arxiv.org/abs/1911.05865" target="blank" style="color:blue;">arXiv:1911.05865.</a>

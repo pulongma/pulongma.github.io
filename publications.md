@@ -7,6 +7,27 @@ title: PUBLICATIONS
 <ol start="1">
   
 
+<h1>Submitted papers </h1>
+<p>
+
+<li>
+  Baker, E., Barbillon, P., Fadikar, A., Gramacy, R. B., Herbei, R., Higdon, D., Huang, J., Johnson, L. R., <b>Ma, P.</b>, Mondal, A., Pires, B., Sacks, J., and Sokolov, V. (2020) ``Stochastic Simulators: An Overview with Opportunities." Under review. <a href="https://arxiv.org/abs/2002.01321" target="blank" style="color:blue;">arXiv:2002.01321.</a>
+</li>
+
+<li> <b> Ma, P.</b> and Bhadra, A. (2019) "Kriging: Beyond Mat&eacute;rn." Under review. <a href="https://arxiv.org/abs/1911.05865" target="blank" style="color:blue;">arXiv:1911.05865.</a>
+</li>
+  
+<li> <b> Ma, P.</b> (2019) "Objective Bayesian Analysis of a Cokriging Model for Hierarchical Multifidelity Codes." Invited Revision for the <em>SIAM/ASA Journal on Uncertainty Quantification</em>. <a href="https://arxiv.org/abs/1910.10225" target="blank" style="color:blue;">arXiv:1910.10225.</a>
+</li>
+
+<li> <b> Ma, P.</b>, Karagiannis, G., Konomi, B. A., Asher, T. G., Toro, G. R., and Cox, A. T. (2019) "Multifidelity Computer Model Emulation with High-Dimensional Output: An Application to Storm Surge." Invited Revision for <em>the Annals of Applied Statistics</em>. <a href="https://arxiv.org/abs/1909.01836" target="blank" style="color:blue;">arXiv:1909.01836.</a>
+</li> 
+
+<li> 
+  <b> Ma, P.</b>, Mondal, A., Konomi, B. A., Hobbs, J., Song, J. J., and Kang, E. L. (2019) "Computer Model Emulation with High-Dimensional Functional Output in Large-Scale Observing System Uncertainty Experiments." Under review. <a href="https://arxiv.org/abs/1911.09274" target="blank" style="color:blue;">arXiv:1911.09274.</a>
+</li> 
+
+</p>
 
 <h1>Peer-reviewed and published papers </h1>
 <p>
@@ -30,23 +51,6 @@ title: PUBLICATIONS
 </p>
 
 
-<h1>Submitted papers </h1>
-<p>
-  
-<li> <b> Ma, P.</b> and Bhadra, A. (2019) "Kriging: Beyond Mat&eacute;rn." Under review. <a href="https://arxiv.org/abs/1911.05865" target="blank" style="color:blue;">PDF.</a>
-</li>
-  
-<li> <b> Ma, P.</b> (2019) "Objective Bayesian Analysis of a Cokriging Model for Hierarchical Multifidelity Codes." Invited Revision for the <em>SIAM/ASA Journal on Uncertainty Quantification</em>. <a href="https://arxiv.org/abs/1910.10225" target="blank" style="color:blue;">PDF.</a>
-</li>
-
-<li> <b> Ma, P.</b>, Karagiannis, G., Konomi, B. A., Asher, T. G., Toro, G. R., and Cox, A. T. (2019) "Multifidelity Computer Model Emulation with High-Dimensional Output: An Application to Storm Surge." Invited Revision for <em>the Annals of Applied Statistics</em>. <a href="https://arxiv.org/abs/1909.01836" target="blank" style="color:blue;">PDF.</a>
-</li> 
-
-<li> 
-  <b> Ma, P.</b>, Mondal, A., Konomi, B. A., Hobbs, J., Song, J. J., and Kang, E. L. (2019) "Computer Model Emulation with High-Dimensional Functional Output in Large-Scale Observing System Uncertainty Experiments." Under review. <a href="https://arxiv.org/abs/1911.09274" target="blank" style="color:blue;">PDF.</a>
-</li> 
-
-</p>
 
 <h1>Technical report </h1>
 <p>

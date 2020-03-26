@@ -8,10 +8,11 @@ title: PUBLICATIONS
   
 <h1> Selected Papers </h1>
 
-<h1>Submitted papers </h1>
 
 
 <!--
+<h1>Submitted papers </h1>
+
 <li>
   Baker, E., Barbillon, P., Fadikar, A., Gramacy, R. B., Herbei, R., Higdon, D., Huang, J., Johnson, L. R., <b>Ma, P.</b>, Mondal, A., Pires, B., Sacks, J., and Sokolov, V. (2020) "Stochastic Simulators: An Overview with Opportunities." Under review. <a href="https://arxiv.org/abs/2002.01321" target="blank" style="color:blue;">arXiv:2002.01321.</a>
 </li>
@@ -32,7 +33,7 @@ title: PUBLICATIONS
 
 
 
-<h1>Peer-reviewed and published papers </h1>
+<!-- <h1>Peer-reviewed and published papers </h1> -->
 
 
 <li> <b>Ma, P.</b> and Kang, E. L. (2019) "A Fused Gaussian Process Model for Very Large Spatial Data."  <em>Journal of Computational and Graphical Statistics</em>, forthcoming. <a href="https://doi.org/10.1080/10618600.2019.1704293" target="blank" style="color:blue;">PDF.</a> (Early version wins the Student Paper Competition in the 2017 ICSA Applied Statistics Symposium)

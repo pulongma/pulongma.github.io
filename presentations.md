@@ -7,7 +7,7 @@ mathjax: true
 
 <ul> 
   
-<li> <b>Invited Talk</b>, "Uncertainty Quantification in Assessing Storm Surge Hazards",  The 2020 SIAM Conference on Uncertainty Quantification, Munich, German, Mar 2020 </li>
+<li> <b>Invited Talk</b>, "Uncertainty Quantification in Assessing Storm Surge Hazards",  The 2020 SIAM Conference on Uncertainty Quantification, Munich, Germany, Mar 2020 </li>
 
 <li> <b> Invited Talk</b>, "Kriging: Beyond Matérn", The SAMSI Deep Learning Transition Workshop, Duke University, Durham, Mar 2020 </li>
  

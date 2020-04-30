@@ -5,7 +5,8 @@ title: HOME
 
 ![](./bio-photo.jpg){:width="200px"}  
 
-<h1> <a href="https://drive.google.com/open?id=12cM98t-tI8z3QiZ40svZagJ0W85DO6lJ" target="blank">Curriculum Vitae </a> </h1>
+<!-- <h1> <a href="https://drive.google.com/open?id=12cM98t-tI8z3QiZ40svZagJ0W85DO6lJ" target="blank">Curriculum Vitae </a> </h1> -->
+<h1 <a href="mailto:pulong.ma@duke.edu"> Curriculum Vitae </a> </h1> 
 
 About Me
 ======

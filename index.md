@@ -10,7 +10,7 @@ title: HOME
 
 About Me
 ======
-I am currently a Postdoctoral Fellow at the Statistical and Applied Mathematical Sciences Institute (SAMSI) and Duke University, where I was participating in the program on <a href="https://www.samsi.info/programs-and-activities/year-long-research-programs/model-uncertainty-mathematical-statistical-mums/" target="blank">Model Uncertainty: Mathematical and Statistical</a> (MUMS) in 2018-2019 under the guidance of Dr. James O. Berger at Duke University. Before that, I got my Ph.D. in Statistics in 2018 at University of Cincinnati under the guidance of Dr. Emily L. Kang and Dr. Bledar A. Konomi with dissertation topic in spatial and spatio-temporal statistics. My current research areas include: 
+I am currently a Postdoctoral Fellow at the Statistical and Applied Mathematical Sciences Institute (SAMSI) and Duke University, where I was participating in the program on <a href="https://www.samsi.info/model-uncertainty-mathematical-statistical-mums/" target="blank">Model Uncertainty: Mathematical and Statistical</a> (MUMS) in 2018-2019 under the guidance of Dr. James O. Berger at Duke University. Before that, I got my Ph.D. in Statistics in 2018 at University of Cincinnati under the guidance of Dr. Emily L. Kang and Dr. Bledar A. Konomi with dissertation topic in spatial and spatio-temporal statistics. My current research areas include: 
 <ul>
   <li> <b>Uncertainty Quantification (UQ)</b>: Extrapolation, Gaussian process emulator with physical constraints, Experimental design, computer model emulation, discrepancy, Bayesian calibration, design and analysis of stochastic simulators, Bayesian inverse problem, UQ for deep learning models</li>
   
@@ -39,10 +39,10 @@ Email: pulong.ma [at] duke.edu <br/>
 Employment
 ======
 * <a href="https://www.samsi.info" target="blank">Statistical and Applied Mathematical Sciences Institute</a>, Durham, NC <br/>
-Postdoctoral Fellow, <a href="https://www.samsi.info/programs-and-activities/year-long-research-programs/model-uncertainty-mathematical-statistical-mums/" target="blank">MUMS program</a>, Aug 2018 - Present 
+Postdoctoral Fellow, <a href="https://www.samsi.info/model-uncertainty-mathematical-statistical-mums/" target="blank">MUMS program</a>, Aug 2018 - Present 
 * Duke University, Durham, NC <br/>
 Postdoctoral Fellow, Department of Statistical Science, Aug 2018 - Present <br/>
-Mentor: Dr. <a href="https://stat.duke.edu/people/james-o-berger" target="blank">James O. Berger</a>, Arts and Sciences Distinguished Professor of Statistics
+Mentor: Dr. <a href="http://www2.stat.duke.edu/~berger/" target="blank">James O. Berger</a>, Arts and Sciences Distinguished Professor Emeritus of Statistics
 
 
 Education

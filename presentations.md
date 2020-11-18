@@ -27,7 +27,7 @@ mathjax: true
 
 <li> <b> Invited Talk</b>, "Kriging: Beyond Matérn", Department of Statistics, University of Wisconsin-Madison, Madison, WI, Jan 2020. </li> 
 
-<li> <b> Invited Talk</b>, "Kriging: Beyond Matérn", School of Mathematical and Statistical Sciences, Arizona State University, AZ. </li> 
+<li> <b> Invited Talk</b>, "Kriging: Beyond Matérn", School of Mathematical and Statistical Sciences, Arizona State University, AZ, Jan 2020. </li> 
 
 <li>  Contributed Talk, "Multifidelity Computer Model Emulation with High-Dimensional Output: An Application to Storm Surge", Joint Statistical Meetings, Denver, CO,  Aug 2019  </li> 
    

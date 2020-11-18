@@ -12,28 +12,29 @@ title: PUBLICATIONS
 <h1>Submitted papers </h1>
 
 <li>
-  Baker, E., Barbillon, P., Fadikar, A., Gramacy, R. B., Herbei, R., Higdon, D., Huang, J., Johnson, L. R., <b>Ma, P.</b>, Mondal, A., Pires, B., Sacks, J., and Sokolov, V. (2020) "Stochastic Simulators: An Overview with Opportunities." Under review. <a href="https://arxiv.org/abs/2002.01321" target="blank" style="color:blue;">arXiv:2002.01321.</a>
+  Baker, E., Barbillon, P., Fadikar, A., Gramacy, R. B., Herbei, R., Higdon, D., Huang, J., Johnson, L. R., <b>Ma, P.</b>, Mondal, A., Pires, B., Sacks, J., and Sokolov, V. (2020) "Analyzing Stochastic Computer Models: A Review with Opportunities." <em>Statistical Science</em>. In Revision. <a href="https://arxiv.org/abs/2002.01321" target="blank" style="color:blue;">arXiv:2002.01321.</a>
 </li>
 
-<li> <b> Ma, P.</b> and Bhadra, A. (2019) "Kriging: Beyond Mat&eacute;rn." Under review. <a href="https://arxiv.org/abs/1911.05865" target="blank" style="color:blue;">arXiv:1911.05865.</a>
+<li> <b> Ma, P.</b> and Bhadra, A. (2020) "Kriging: Beyond Mat&eacute;rn." <em>Journal of the American Statistical Association, Theory and Methods</em>. In Revision. <a href="https://arxiv.org/abs/1911.05865" target="blank" style="color:blue;">arXiv:1911.05865.</a>
 </li>
   
-<li> <b> Ma, P.</b> (2019) "Objective Bayesian Analysis of a Cokriging Model for Hierarchical Multifidelity Codes." Invited revision for the <em>SIAM/ASA Journal on Uncertainty Quantification</em>. <a href="https://arxiv.org/abs/1910.10225" target="blank" style="color:blue;">arXiv:1910.10225.</a>
-</li>
 
-<li> <b> Ma, P.</b>, Karagiannis, G., Konomi, B. A., Asher, T. G., Toro, G. R., and Cox, A. T. (2019) "Multifidelity Computer Model Emulation with High-Dimensional Output: An Application to Storm Surge." Under review. <a href="https://arxiv.org/abs/1909.01836" target="blank" style="color:blue;">arXiv:1909.01836.</a>
+
+<li> <b> Ma, P.</b>, Karagiannis, G., Konomi, B. A., Asher, T. G., Toro, G. R., and Cox, A. T. (2020) "Multifidelity Computer Model Emulation with High-Dimensional Output: An Application to Storm Surge." <em>Journal of the Royal Statistical Society: Series C</em>. In Revision. <a href="https://arxiv.org/abs/1909.01836" target="blank" style="color:blue;">arXiv:1909.01836.</a>
 </li> 
 
 <li> 
-  <b> Ma, P.</b>, Mondal, A., Konomi, B. A., Hobbs, J., Song, J. J., and Kang, E. L. (2019) "Computer Model Emulation with High-Dimensional Functional Output in Large-Scale Observing System Uncertainty Experiments." Invited revision for <em>Technometrics</em>. <a href="https://arxiv.org/abs/1911.09274" target="blank" style="color:blue;">arXiv:1911.09274.</a>
+  <b> Ma, P.</b>, Mondal, A., Konomi, B. A., Hobbs, J., Song, J. J., and Kang, E. L. (2020) "Computer Model Emulation with High-Dimensional Functional Output in Large-Scale Observing System Uncertainty Experiments." <em>Technometrics</em>. In Revision. <a href="https://arxiv.org/abs/1911.09274" target="blank" style="color:blue;">arXiv:1911.09274.</a>
 </li> 
 
 <br>
 
 <h1>Peer-reviewed and published papers </h1> 
 
+<li> <b> Ma, P.</b> (2020) "Objective Bayesian Analysis of a Cokriging Model for Hierarchical Multifidelity Codes." <em>SIAM/ASA Journal on Uncertainty Quantification</em>, 8(4), 1358-1382. <a href="https://epubs.siam.org/doi/10.1137/19M1289893" target="blank" style="color:blue;">PDF.</a>
+</li>
 
-<li> <b>Ma, P.</b> and Kang, E. L. (2019) "A Fused Gaussian Process Model for Very Large Spatial Data."  <em>Journal of Computational and Graphical Statistics</em>, forthcoming. <a href="https://doi.org/10.1080/10618600.2019.1704293" target="blank" style="color:blue;">PDF.</a> (Early version wins the Student Paper Competition in the 2017 ICSA Applied Statistics Symposium)
+<li> <b>Ma, P.</b> and Kang, E. L. (2020) "A Fused Gaussian Process Model for Very Large Spatial Data."  <em>Journal of Computational and Graphical Statistics</em>, 29(3), 479-489. <a href="https://doi.org/10.1080/10618600.2019.1704293" target="blank" style="color:blue;">PDF.</a> (Early version wins the Student Paper Competition in the 2017 ICSA Applied Statistics Symposium)
 </li>
 
 

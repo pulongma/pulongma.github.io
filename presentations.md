@@ -19,9 +19,9 @@ mathjax: true
 <li> <b>Invited Talk</b>, "Efficient Surrogate Modeling for Uncertainty Quantification in Assessment of Remote Sensing Retrievals and Storm Surges", US CLIVAR Working Group on Emerging Data Science Tools for Climate Variability and Predictability, Online, June 2020.
 </li>
 
-<li> <b>Invited Talk</b>, "Uncertainty Quantification in Assessing Storm Surge Hazards",  The 2020 SIAM Conference on Uncertainty Quantification, Munich, Germany, Mar 2020 </li> 
+<li> <b>Invited Talk</b>, "Uncertainty Quantification in Assessing Storm Surge Hazards",  The 2020 SIAM Conference on Uncertainty Quantification, Munich, Germany, Mar 2020. Cancelled. </li> 
 
-<li> <b> Invited Talk</b>, "Kriging: Beyond Matérn", The SAMSI Deep Learning Transition Workshop, Duke University, Durham, Mar 2020 </li>
+<li> <b> Invited Talk</b>, "Kriging: Beyond Matérn", The SAMSI Deep Learning Transition Workshop, Duke University, Durham, Mar 2020. Cancelled. </li> 
  
 <li>  Contributed Talk, "Multifidelity Computer Model Emulation with High-Dimensional Output: An Application to Storm Surge", Joint Statistical Meetings, Denver, CO,  Aug 2019  </li> 
    

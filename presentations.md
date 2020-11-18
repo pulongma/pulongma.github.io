@@ -6,8 +6,20 @@ mathjax: true
 
 
 <ul> 
-  
-<li> <b>Invited Talk</b>, "Uncertainty Quantification in Assessing Storm Surge Hazards",  The 2020 SIAM Conference on Uncertainty Quantification, Munich, Germany, Mar 2020 </li>
+
+<li> <b>Invited Talk</b>, "Computer Model Emulation with High-Dimensional Functional Output in Large-Scale Observing System Uncertainty Experiments", Virtual Breakout Meeting on Uncertainty Quantification for Remote Sensing Inverse Problems, Jet Propulsion Laboratory, Online, Oct 2020.
+</li>
+
+<li> <b>Invited Talk</b>, "Efficient Surrogate Modeling for Uncertainty Quantification in Assessment of Remote Sensing Retrievals and Storm Surges", Jet Propulsion Laboratory, Online, Aug 2020.
+</li>
+
+<li> <b>Invited Talk</b>, "Multifidelity Computer Model Emulation with High-Dimensional Output: An Application to Storm Surge", Data Science, Statistics & Visualization 2020, Online,  July 2020.
+</li>
+
+<li> <b>Invited Talk</b>, "Efficient Surrogate Modeling for Uncertainty Quantification in Assessment of Remote Sensing Retrievals and Storm Surges", US CLIVAR Working Group on Emerging Data Science Tools for Climate Variability and Predictability, Online, June 2020.
+</li>
+
+<li> <b>Invited Talk</b>, "Uncertainty Quantification in Assessing Storm Surge Hazards",  The 2020 SIAM Conference on Uncertainty Quantification, Munich, Germany, Mar 2020 </li> 
 
 <li> <b> Invited Talk</b>, "Kriging: Beyond Matérn", The SAMSI Deep Learning Transition Workshop, Duke University, Durham, Mar 2020 </li>
  

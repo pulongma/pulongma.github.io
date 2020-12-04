@@ -61,7 +61,6 @@ whitelist:
 header_pages:
 - index.md
 - publications.md
-- research.md
 - teaching.md
 - presentations.md
 
@@ -74,7 +73,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   RESEARCH:
-    output: true
+    output: false
     permalink: /:collection/:path/
   TEACHING:
     output: true

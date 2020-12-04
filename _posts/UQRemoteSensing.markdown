@@ -14,7 +14,6 @@ Observing system uncertainty experiments (OSUEs) have been recently proposed as 
 ![OCO-2 full-physics forward model simulation over five soundings](/images/soundings_examples_OCO2.jpg)
 ![Comparison of the FP forward model simulated radiances, the ROM predictions, and the predicted radiances with their 95\% credible intervals from the band-independent emulator (IND) based on NNGP](/images/IND_ROM_15.jpg)
 
-<!-- {% include image.html url="/images/soundings_examples_OCO2.jpg" description="OCO-2 full-physics forward model simulation over five soundings" %} !>
 
 
 ------
@@ -22,4 +21,3 @@ References
 ------
 <b> Ma, P.</b>, Mondal, A., Konomi, B. A., Hobbs, J., Song, J. J., and Kang, E. L. (2020) "Computer Model Emulation with High-Dimensional Functional Output in Large-Scale Observing System Uncertainty Experiments." <em>Technometrics</em>. In Revision. <a href="https://arxiv.org/abs/1911.09274" target="blank" style="color:blue;">arXiv:1911.09274.</a>
 
-[Ma2020OSUE]: https://arxiv.org/abs/1911.09274 

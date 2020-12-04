@@ -20,5 +20,17 @@
   
   gtag('config', 'UA-153329582-1');
 </script>
+  <!-- End Google Tag Manager -->
+  
+  <!-- IpMeta must be included after Google Analytics -->
+<script src="https://ipmeta.io/plugin.js"></script>
+
+<script>
+    var data  = provideGtmPlugin({
+        gtmEventKey: 'ipmeta_loaded',
+    });
+    window.dataLayer = window.dataLayer || [];
+    window.dataLayer.push(data);
+</script>
   
 </head>

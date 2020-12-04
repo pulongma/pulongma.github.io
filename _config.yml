@@ -65,6 +65,25 @@ header_pages:
 - teaching.md
 - presentations.md
 
+# Collections
+collections:
+  HOME:
+    output: true
+    permalink: /:collection/:path/
+  PUBLICATIONS:
+    output: true
+    permalink: /:collection/:path/
+  RESEARCH:
+    output: true
+    permalink: /:collection/:path/
+  TEACHING:
+    output: true
+    permalink: /:collection/:path/
+  PRESENTATIONS:
+    output: true
+    permalink: /:collection/:path/
+
+
 # Defaults
 defaults:
   # _posts

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Research"
+title:  "RESEARCH"
 categories: jekyll update
 ---
 

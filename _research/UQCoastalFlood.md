@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "RESEARCH"
+mathjax: true
 categories: jekyll update
 ---
 

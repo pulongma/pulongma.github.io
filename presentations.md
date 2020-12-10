@@ -4,7 +4,7 @@ title: PRESENTATIONS
 mathjax: true
 ---
 
-
+<p style="line-height: 1.4em;">
 <ul> 
 
 <li> <b>Invited Talk</b>, "Computer Model Emulation with High-Dimensional Functional Output in Large-Scale Observing System Uncertainty Experiments", Virtual Breakout Meeting on Uncertainty Quantification for Remote Sensing Inverse Problems, Jet Propulsion Laboratory, Online, Oct 2020.
@@ -53,3 +53,5 @@ mathjax: true
     
     
 </ul>
+
+</p>

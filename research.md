@@ -6,9 +6,9 @@ title: RESEARCH
 
 Uncertainty Quantification for Remote Sensing Science 
 ======
-<div style="text-align: justify">
+<p style="text-align: justify; line-height: 1.1;">
 With space-based observations, remote sensing technology provides a wealth of information for understanding geophysical processes with unprecedented spatial and temporal coverage. Quantitative inference for the global carbon cycle has been bolstered by greenhouse gas observing satellites. NASA’s Orbiting Carbon Observatory-2 (OCO-2) collects tens of thou- sands of observations of reflected sunlight daily. These observed spectra, or radiances, are used to infer the atmospheric carbon dioxide (CO2) at fine spatial and temporal resolution with substantial coverage across the globe. Estimates of atmospheric CO2 are computed from the observed radiances using an inverse method known as a retrieval algorithm. The resulting estimates of geophysical quantities of interest are called retrievals. A key task in remote sensing science is to perform probabilistic assessment of remote sensing retrievals. However, different from many other disciplines, it is infeasible to perform physical experiments to study the quality of remote sensing retrievals thoroughly because a representative ground truth of atmospheric variables is usually lacking. Part of my research has focused on developing UQ methodologies to facilitate probabilistic assessment of remote sensing retrievals. <a name="UQ for Remote Sensing" target="blank">See more</a>. 
-</div>
+</p>
 <br/>
 
 

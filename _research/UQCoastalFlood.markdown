@@ -18,7 +18,7 @@ Storm surge is one of the most severe natural hazards that can lead to significa
 
 
 ------
-Multifidelity Computer Modeling for Storm Surges
+Multifidelity Computer Model Emulation for Storm Surges
 ===
 Hurricane-driven storm surge is one of the most deadly and costly natural disasters, making precise quantification of the surge hazard of great importance. Inference of such systems is done through physics-based computer models of the process. Such surge simulators can be implemented with a wide range of fidelity levels, with computational burdens varying by several orders of magnitude due to the nature of the system. The danger posed by surge makes greater fidelity highly desirable, however such models and their high-volume output tend to come at great computational cost, which can make detailed study of coastal flood hazards prohibitive. These needs make the development of an emulator combining high-dimensional output from multiple complex computer models with different fidelity levels important. We propose a parallel partial autoregressive cokriging model to predict highly-accurate storm surges in a computationally efficient way over a large spatial domain. This emulator has the capability of predicting storm surges as accurately as a high-fidelity computer model given any storm characteristics and allows accurate assessment of the hazards from storm surges over a large spatial domain.
 

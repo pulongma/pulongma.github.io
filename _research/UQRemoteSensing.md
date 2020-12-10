@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Research"
+mathjax: true
 ---
 
 Uncertainty Quantification for Remote Sensing Science

@@ -2,7 +2,7 @@
 layout: default
 title: TEACHING
 ---
-
+<p style="text-align: justify;">
 <ul>
   <li> The Statistical and Applied Mathematical Sciences Institute, Durham, NC </li>
   <ul>
@@ -23,3 +23,5 @@ title: TEACHING
    <li> Coach, Workshop on Beyond P-values: Introduction to Bayesian Statistics </li>
   </ul>
 </ul>
+
+</p>

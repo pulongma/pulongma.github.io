@@ -2,6 +2,7 @@
 layout: post
 title:  "Research"
 mathjax: true
+categories: jekyll update
 ---
 
 Uncertainty Quantification for Remote Sensing Science

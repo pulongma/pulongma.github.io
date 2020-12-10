@@ -19,15 +19,11 @@ title: Pulong Ma
 description: >- # this means to ignore newlines until "baseurl:"
   Pulong Ma's Homepage
 # baseurl: "" # the subpath of your site, e.g. /blog
-url                      : https://pulongma.github.io "" # the base hostname & protocol for your site, e.g. http://example.com
+# url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
-repository               : "pulongma.github.io"
 words_per_minute         : 800
 future                   : true
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-
-
 
 # Build settings
 markdown: kramdown
@@ -35,7 +31,20 @@ kramdown:
     smart_quotes: ["apos", "apos", "quot", "quot"]
 theme: minima
 
-
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-redirect-from
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -49,21 +58,10 @@ theme: minima
 #   - vendor/gems/
 #   - vendor/ruby/
 
-# Markdown Processing
-kramdown:
-  input: GFM
-  hard_wrap: false
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
-  
 header_pages:
 - index.md
 - publications.md
-#- research.md
+- research.md
 - teaching.md
 - presentations.md
 
@@ -76,7 +74,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   RESEARCH:
-    output: false
+    output: true
     permalink: /:collection/:path/
   TEACHING:
     output: true
@@ -119,21 +117,3 @@ defaults:
       comments: false
       share: true
       related: true
-
-
-# Plugins
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-redirect-from
-# mimic GitHub Pages with --safe
-whitelist:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-  
-    

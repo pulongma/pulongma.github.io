@@ -76,7 +76,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   RESEARCH:
-    output: false
+    output: true
     permalink: /:collection/:path/
   TEACHING:
     output: true

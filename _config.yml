@@ -172,7 +172,7 @@ relative_links:
 #   - vendor/ruby/
 
 header_pages:
-- home.md
+- index.md
 - publications.md
 - research.md
 - teaching.md

@@ -28,30 +28,12 @@ words_per_minute         : 800
 future                   : true
 
 # Build settings
-#markdown: kramdown
-#kramdown:
-#    smart_quotes: ["apos", "apos", "quot", "quot"]
-#theme: minima
-
-
-# Conversion
 markdown: kramdown
-highlighter: rouge
-lsi: false
-excerpt_separator: "\n\n"
-incremental: false
-
-
-# Markdown Processing
 kramdown:
-  input: GFM
-  hard_wrap: false
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
+    smart_quotes: ["apos", "apos", "quot", "quot"]
+theme: minima
+
+
   
   
 # Collections

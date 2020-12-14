@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Research"
 mathjax: true
 categories: jekyll update

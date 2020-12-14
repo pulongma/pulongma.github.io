@@ -16,6 +16,8 @@
 locale: "en-US"
 title: Pulong Ma
 # email: 
+#googlescholar    : "http://yourfullgooglescholarurl.com"
+#orcid            : "http://orcid.org/yourorcidurl"
 description: >- # this means to ignore newlines until "baseurl:"
   Pulong Ma's Homepage
 # baseurl: "" # the subpath of your site, e.g. /blog
@@ -31,49 +33,6 @@ kramdown:
     smart_quotes: ["apos", "apos", "quot", "quot"]
 theme: minima
 
-# Outputting
-permalink: /:categories/:title/
-timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
-# Plugins
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-redirect-from
-  - jekyll-relative-links
-  
-# mimic GitHub Pages with --safe
-whitelist:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-
-relative_links:
-  enabled:     true
-  collections: true
-  
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-
-header_pages:
-- index.md
-- publications.md
-- research.md
-- teaching.md
-- presentations.md
 
 # Collections
 collections:
@@ -127,3 +86,57 @@ defaults:
       comments: false
       share: true
       related: true
+
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
+# Outputting
+permalink: /:categories/:title/
+# paginate: 5 # amount of posts to show
+# paginate_path: /page:num/
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-redirect-from
+  - jekyll-relative-links
+  
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+
+relative_links:
+  enabled:     true
+  collections: true
+  
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+header_pages:
+- index.md
+- publications.md
+- research.md
+- teaching.md
+- presentations.md
+
+

@@ -11,7 +11,7 @@ title: HOME
 About Me
 ======
 <p style="text-align: justify; line-height: 1.2em;"> 
-I am currently a Postdoctoral Fellow at the Statistical and Applied Mathematical Sciences Institute (SAMSI) and Duke University, where I was participating in the program on <a href="https://www.samsi.info/model-uncertainty-mathematical-statistical-mums/" target="blank">Model Uncertainty: Mathematical and Statistical</a> (MUMS) in 2018-2019 under the guidance of Dr. James O. Berger at Duke University. Before that, I got my Ph.D. in Statistics in 2018 at University of Cincinnati under the guidance of Dr. Emily L. Kang and Dr. Bledar A. Konomi with dissertation topic in spatial and spatio-temporal statistics. My current research areas include: </p>
+I am currently a Postdoctoral Fellow at the Statistical and Applied Mathematical Sciences Institute (SAMSI) and Duke University, where I was participating in the program on <a href="https://www.samsi.info/model-uncertainty-mathematical-statistical-mums/" target="blank" style="color:blue;">Model Uncertainty: Mathematical and Statistical</a> (MUMS) in 2018-2019 under the guidance of Dr. James O. Berger at Duke University. Before that, I got my Ph.D. in Statistics in 2018 at University of Cincinnati under the guidance of Dr. Emily L. Kang and Dr. Bledar A. Konomi with dissertation topic in spatial and spatio-temporal statistics. My current research areas include: </p>
 <ul>
   <li> <b>Uncertainty Quantification (UQ)</b>: Extrapolation, Gaussian process emulator with physical constraints, Experimental design, computer model emulation, discrepancy, Bayesian calibration, design and analysis of stochastic simulators, Bayesian inverse problem, UQ for deep learning models</li>
   
@@ -34,23 +34,22 @@ Statistical and Applied Mathematical Sciences Institute <br/>
 79 T.W. Alexander Drive, P.O. Box 110207 <br/>
 Durham, NC 27709 <br/>
 Email: pulong.ma [at] duke.edu <br/>
-<!-- <a href="http://mapn.github.io/files/PulongMa_CV.pdf" target="blank">Curriculum Vitae</a> -->
 
 
 Employment
 ======
-* <a href="https://www.samsi.info" target="blank">Statistical and Applied Mathematical Sciences Institute</a>, Durham, NC <br/>
-Postdoctoral Fellow, <a href="https://www.samsi.info/model-uncertainty-mathematical-statistical-mums/" target="blank">MUMS program</a>, Aug 2018 - Present 
+* <a href="https://www.samsi.info" target="blank" style="color:blue;">Statistical and Applied Mathematical Sciences Institute</a>, Durham, NC <br/>
+Postdoctoral Fellow, <a href="https://www.samsi.info/model-uncertainty-mathematical-statistical-mums/" target="blank" style="color:blue;">MUMS program</a>, Aug 2018 - Present 
 * Duke University, Durham, NC <br/>
 Postdoctoral Fellow, Department of Statistical Science, Aug 2018 - Present <br/>
-Mentor: Dr. <a href="http://www2.stat.duke.edu/~berger/" target="blank">James O. Berger</a>, Arts and Sciences Distinguished Professor Emeritus of Statistics
+Mentor: Dr. <a href="http://www2.stat.duke.edu/~berger/" target="blank" style="color:blue;">James O. Berger</a>, Arts and Sciences Distinguished Professor Emeritus of Statistics
 
 
 Education
 ======
 * Ph.D. in Statistics, University of Cincinnati, Cincinnati, OH, 2018 <br/>
   * Dissertation title: Hierarchical Additive Spatial and Spatio-Temporal Process Models for Massive Datasets
-  * Advisors: Dr. <a href="https://emilystat.wixsite.com/gdads/" target="blank">Emily L. Kang</a> and Dr. <a href="https://scholar.google.com/citations?user=lqnGbNkAAAAJ&hl=en" target="blank">Bledar A. Konomi</a>
+  * Advisors: Dr. <a href="https://emilystat.wixsite.com/gdads/" target="blank" style="color:blue;">Emily L. Kang</a> and Dr. <a href="https://scholar.google.com/citations?user=lqnGbNkAAAAJ&hl=en" target="blank" style="color:blue;">Bledar A. Konomi</a>
 * B.S. in Computational Mathematics, Northeast Forestry University, China, 2013
 
 

@@ -15,7 +15,7 @@ With space-based observations, remote sensing technology provides a wealth of in
   <b> Ma, P.</b>, Mondal, A., Konomi, B. A., Hobbs, J., Song, J. J., and Kang, E. L. (2020) "<a href="https://arxiv.org/abs/1911.09274" target="blank" style="color:blue;">Computer Model Emulation with High-Dimensional Functional Output in Large-Scale Observing System Uncertainty Experiments</a>." <em>Technometrics</em>. In Revision. arXiv:1911.09274.
 </li> 
 
-<li> <b>Spatial Downscaling for evaluating data assimilation algorithms in observing system simulation experiments:</b> <br> 
+<li> <b>Spatial downscaling for evaluating data assimilation algorithms in observing system simulation experiments:</b> <br> 
   <b>Ma, P.</b>, Kang, E. L., Braverman, A., and Nguyen, H. (2019) "<a href="https://doi.org/10.1080/00401706.2018.1524791" target="blank" style="color:blue;">Spatial Statistical Downscaling for Constructing High-Resolution Nature Runs in Global Observing System Simulation Experiments</a>." <em>Technometrics</em>, 61(3), 322-340.
 </li>
 

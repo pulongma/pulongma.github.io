@@ -29,5 +29,10 @@ Uncertainty Quantification for Coastal Flood Hazard Studies
 ======
 <div style="text-align: justify; line-height: 1.2em;">
 Hurricane-driven storm surge is one of the most deadly and costly natural disasters, making precise quantification of the surge hazard of great importance. current coastal flood hazard studies are often performed through a synthesis of computer modeling, statistical modeling, and extreme-event probability computation, where computer modeling is used to predict the storm surge hazard initialized by hurricanes, statistical modeling is used to determine the distribution of hurricane characteristics, and extreme-event probability is used to assess the flood hazard. These studies support development and application of flood insurance rates, building codes, land use planning/development, infrastructure design and construction, and related goals by providing hazard levels at a range of frequencies. However, current coastal flood hazard studies have suffered from several limitations including exceesive usage of computing resources, inappropriate uncertainty quantification, and lack of optimal statistical modeling. To address these issues, part of my research has focused on developing computationally efficient and rigorous UQ methodologies to facilitate coastal flood hazard studies. <a href="/_research/UQCoastalFlood.md" target="blank">See more</a>.
+
+ <li> <b> Multifidelity computer model emulation for storm surges:</b> <br>
+<b> Ma, P.</b>, Karagiannis, G., Konomi, B. A., Asher, T. G., Toro, G. R., and Cox, A. T. (2020) "<a href="https://arxiv.org/abs/1909.01836" target="blank" style="color:blue;">Multifidelity Computer Model Emulation with High-Dimensional Output: An Application to Storm Surge</a>." <em>Journal of the Royal Statistical Society: Series C</em>. In Revision. arXiv:1909.01836.
+</li>
+ 
 </div>
 

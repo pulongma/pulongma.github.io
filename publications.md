@@ -48,7 +48,7 @@ title: PUBLICATIONS
 <li> <b>Ma, P.</b>, Konomi, B., and Kang, E. L. (2019) "<a href="https://doi.org/10.1002/env.2569" target="blank" style="color:blue;">An Additive Approximate Gaussian Process Model for Large Spatio-Temporal Data</a>." <em>Environmetrics</em>, DOI:10.1002/env.2569. </li>
 
 <li> <b>Ma, P.</b>, Kang, E. L., Braverman, A., and Nguyen, H. (2019) "<a href="https://doi.org/10.1080/00401706.2018.1524791" target="blank" style="color:blue;">Spatial Statistical Downscaling for Constructing High-Resolution Nature Runs in Global Observing System Simulation Experiments</a>." <em>Technometrics</em>, 61(3), 322-340. 
-  <ul>--Early version wins the Student Paper Competition in the 2018 American Statistical Association Section on Statistics and the Environment</ul>
+  <ul>--Early version wins the 2018 Student Paper Competition in the Section on Statistics and the Environment of American Statistical Association</ul>
 </li>
 
 

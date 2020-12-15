@@ -36,7 +36,7 @@ title: PUBLICATIONS
 
 <li> <b>Ma, P.</b> and Kang, E. L. (2020) "<a href="https://doi.org/10.1080/10618600.2019.1704293" target="blank" style="color:blue;">A Fused Gaussian Process Model for Very Large Spatial Data</a>." <em>Journal of Computational and Graphical Statistics</em>, 29(3), 479-489. 
   <ul>--Early version wins the Student Paper Competition in the 2017 ICSA Applied Statistics Symposium</ul>
-  <ul>--Early version wins the honorable mention in 2016 Student Paper Competition in the Section on Statistics and the Environment of American Statistical Association</ul>
+  <ul>--Early version wins the honorable mention in the 2016 Student Paper Competition in the Section on Statistics and the Environment of American Statistical Association</ul>
 </li>
 
 

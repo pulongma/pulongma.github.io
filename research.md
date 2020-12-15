@@ -9,12 +9,16 @@ Uncertainty Quantification for Remote Sensing
 ======
 <div style="text-align: justify; line-height: 1.2em;">
 With space-based observations, remote sensing technology provides a wealth of information for understanding geophysical processes with unprecedented spatial and temporal coverage. Quantitative inference for the global carbon cycle has been bolstered by greenhouse gas observing satellites. <a href="https://ocov2.jpl.nasa.gov/" target="blank">NASA’s Orbiting Carbon Observatory-2 (OCO-2)</a> collects tens of thousands of observations of reflected sunlight daily. These observed spectra, or radiances, are used to infer the atmospheric carbon dioxide (CO2) at fine spatial and temporal resolution with substantial coverage across the globe. Estimates of atmospheric CO2 are computed from the observed radiances using an inverse method known as a retrieval algorithm. The resulting estimates of geophysical quantities of interest are called retrievals. A key task in remote sensing science is to perform probabilistic assessment of remote sensing retrievals. However, different from many other disciplines, it is infeasible to perform physical experiments to study the quality of remote sensing retrievals thoroughly because a representative ground truth of atmospheric variables is usually lacking. Part of my research has focused on developing UQ methodologies to facilitate probabilistic assessment of remote sensing retrievals. <a href="/_research/UQRemoteSensing.md" target="blank">See more</a>. 
-<br/>
-  
-<p style="font-size: 12pt; font-weight: bold; text-align: justify;">Surrogate modeling for the full-physics forward model in the OCO-2/3 mission:</p>
-<li> 
+
+
+<li> <b>Surrogate modeling for the full-physics forward model in the OCO-2/3 mission:</b>
   <b> Ma, P.</b>, Mondal, A., Konomi, B. A., Hobbs, J., Song, J. J., and Kang, E. L. (2020) "Computer Model Emulation with High-Dimensional Functional Output in Large-Scale Observing System Uncertainty Experiments." <em>Technometrics</em>. In Revision. <a href="https://arxiv.org/abs/1911.09274" target="blank" style="color:blue;">arXiv:1911.09274.</a>
 </li> 
+
+<li> Spatial Downscaling for evaluating data assimilation algorithms in the OCO-2/3 mission: 
+  <b>Ma, P.</b>, Kang, E. L., Braverman, A., and Nguyen, H. (2019) "<a href="https://doi.org/10.1080/00401706.2018.1524791" target="blank" style="color:blue;">Spatial Statistical Downscaling for Constructing High-Resolution Nature Runs in Global Observing System Simulation Experiments</a>." <em>Technometrics</em>, 61(3), 322-340.
+</li>
+
 </div>
 <br>
 

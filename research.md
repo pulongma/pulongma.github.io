@@ -32,7 +32,7 @@ Hurricane-driven storm surge is one of the most deadly and costly natural disast
 <br>
 <br>
 <li> <b>Probabilistic assessment of storm surges:</b> <br>
-  <b>Ma, P.</b>,  Berger, J. O., Asher, T. G., Toro, G. R., and Cox, A. T. "Uncertainty Quantification in Assessing Storm Surge Hazards."
+  <b>Ma, P.</b>,  Berger, J. O., Asher, T. G., Toro, G. R., and Cox, A. T. (2020+) "Uncertainty Quantification in Assessing Storm Surge Hazards."
 </li>
 
 <li> <b> Multifidelity computer model emulation for storm surges:</b> <br>

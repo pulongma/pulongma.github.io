@@ -11,6 +11,11 @@ Uncertainty Quantification for Remote Sensing
 With space-based observations, remote sensing technology provides a wealth of information for understanding geophysical processes with unprecedented spatial and temporal coverage. Quantitative inference for the global carbon cycle has been bolstered by greenhouse gas observing satellites. <a href="https://ocov2.jpl.nasa.gov/" target="blank">NASA’s Orbiting Carbon Observatory-2 (OCO-2)</a> collects tens of thousands of observations of reflected sunlight daily. These observed spectra, or radiances, are used to infer the atmospheric carbon dioxide (CO2) at fine spatial and temporal resolution with substantial coverage across the globe. Estimates of atmospheric CO2 are computed from the observed radiances using an inverse method known as a retrieval algorithm. The resulting estimates of geophysical quantities of interest are called retrievals. A key task in remote sensing science is to perform probabilistic assessment of remote sensing retrievals. However, different from many other disciplines, it is infeasible to perform physical experiments to study the quality of remote sensing retrievals thoroughly because a representative ground truth of atmospheric variables is usually lacking. Part of my research has focused on developing UQ methodologies to facilitate probabilistic assessment of remote sensing retrievals.<!-- <a href="/_research/UQRemoteSensing.md" target="blank">See more</a>. --> 
 <br>
 <br>
+
+<li> <b>Spatial mapping of OCO-2 data with a fleixiable covariance class:</b> <br>
+  <b> Ma, P.</b> and Bhadra, A. (2020) "<a href="https://arxiv.org/abs/1911.05865" target="blank" style="color:blue;">Kriging: Beyond Mat&eacute;rn</a>." <em>Journal of the American Statistical Association, Theory and Methods</em>. In Revision. arXiv:1911.05865.
+ </li>
+
 <li> <b>Surrogate modeling for the full-physics forward model in the OCO-2/3 mission:</b> <br>
   <b> Ma, P.</b>, Mondal, A., Konomi, B. A., Hobbs, J., Song, J. J., and Kang, E. L. (2020) "<a href="https://arxiv.org/abs/1911.09274" target="blank" style="color:blue;">Computer Model Emulation with High-Dimensional Functional Output in Large-Scale Observing System Uncertainty Experiments</a>." <em>Technometrics</em>. In Revision. arXiv:1911.09274.
 </li> 

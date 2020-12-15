@@ -12,16 +12,16 @@ With space-based observations, remote sensing technology provides a wealth of in
 <br>
 <br>
 
-<li> <b>Spatial mapping of OCO-2 data with a fleixiable covariance class:</b> <br>
-  <b> Ma, P.</b> and Bhadra, A. (2020) "<a href="https://arxiv.org/abs/1911.05865" target="blank" style="color:blue;">Kriging: Beyond Mat&eacute;rn</a>." <em>Journal of the American Statistical Association, Theory and Methods</em>. In Revision. arXiv:1911.05865.
+<li> <b>Spatial Mapping for OCO-2 Data</b> <br>
+  <ul> <b> Ma, P.</b> and Bhadra, A. (2020) "<a href="https://arxiv.org/abs/1911.05865" target="blank" style="color:blue;">Kriging: Beyond Mat&eacute;rn</a>." <em>Journal of the American Statistical Association, Theory and Methods</em>. In Revision. arXiv:1911.05865. </ul>
  </li>
 
-<li> <b>Surrogate modeling for the full-physics forward model in the OCO-2/3 mission:</b> <br>
-  <b> Ma, P.</b>, Mondal, A., Konomi, B. A., Hobbs, J., Song, J. J., and Kang, E. L. (2020) "<a href="https://arxiv.org/abs/1911.09274" target="blank" style="color:blue;">Computer Model Emulation with High-Dimensional Functional Output in Large-Scale Observing System Uncertainty Experiments</a>." <em>Technometrics</em>. In Revision. arXiv:1911.09274.
+<li> <b>Surrogate Modeling for the Full-Physics Forward Model in the OCO-2/3 Mission</b> <br>
+  <ul> <b> Ma, P.</b>, Mondal, A., Konomi, B. A., Hobbs, J., Song, J. J., and Kang, E. L. (2020) "<a href="https://arxiv.org/abs/1911.09274" target="blank" style="color:blue;">Computer Model Emulation with High-Dimensional Functional Output in Large-Scale Observing System Uncertainty Experiments</a>." <em>Technometrics</em>. In Revision. arXiv:1911.09274. </ul>
 </li> 
 
-<li> <b>Spatial downscaling for evaluating data assimilation algorithms in observing system simulation experiments:</b> <br> 
-  <b>Ma, P.</b>, Kang, E. L., Braverman, A., and Nguyen, H. (2019) "<a href="https://doi.org/10.1080/00401706.2018.1524791" target="blank" style="color:blue;">Spatial Statistical Downscaling for Constructing High-Resolution Nature Runs in Global Observing System Simulation Experiments</a>." <em>Technometrics</em>, 61(3), 322-340.
+<li> <b>Spatial Downscaling in Observing System Simulation Experiments</b> <br> 
+  <ul><b>Ma, P.</b>, Kang, E. L., Braverman, A., and Nguyen, H. (2019) "<a href="https://doi.org/10.1080/00401706.2018.1524791" target="blank" style="color:blue;">Spatial Statistical Downscaling for Constructing High-Resolution Nature Runs in Global Observing System Simulation Experiments</a>." <em>Technometrics</em>, 61(3), 322-340. </ul>
 </li>
 
 </div>
@@ -38,14 +38,14 @@ Hurricane-driven storm surge is one of the most deadly and costly natural disast
 <br>
 
 <li> <b>Probabilistic Assessment of Storm Surges</b> <br>
- <li> <b>Ma, P.</b>,  Berger, J. O., Asher, T. G., Toro, G. R., and Cox, A. T. (2020+) "Uncertainty Quantification in Assessing Storm Surge Hazards.", Journal of the American Statistical Association, Applications and Case Studies. To be submitted. </li>
+ <ul> <b>Ma, P.</b>,  Berger, J. O., Asher, T. G., Toro, G. R., and Cox, A. T. (2020+) "Uncertainty Quantification in Assessing Storm Surge Hazards.", Journal of the American Statistical Association, Applications and Case Studies. To be submitted. </ul>
 </li>
 
 <li> <b>Multifidelity Computer Model Emulation for Storm Surges</b> <br>
  <ul> <b> Ma, P.</b>, Karagiannis, G., Konomi, B. A., Asher, T. G., Toro, G. R., and Cox, A. T. (2020) "<a href="https://arxiv.org/abs/1909.01836" target="blank" style="color:blue;">Multifidelity Computer Model Emulation with High-Dimensional Output: An Application to Storm Surge</a>." <em>Journal of the Royal Statistical Society: Series C</em>. In Revision. arXiv:1909.01836. </ul>
 </li>
  
-<li> <b>Objective Bayes for Multifidelity Computer Models:</b> <br>
+<li> <b>Objective Bayes for Multifidelity Computer Models</b> <br>
   <ul> <b> Ma, P.</b> (2020) "<a href="https://epubs.siam.org/doi/10.1137/19M1289893" target="blank" style="color:blue;">Objective Bayesian Analysis of a Cokriging Model for Hierarchical Multifidelity Codes</a>." <em>SIAM/ASA Journal on Uncertainty Quantification</em>, 8(4), 1358-1382. </ul>
 </li>
 

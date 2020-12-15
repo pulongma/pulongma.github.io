@@ -38,10 +38,10 @@ Hurricane-driven storm surge is one of the most deadly and costly natural disast
 <br>
 
 <li> <b>Probabilistic Assessment of Storm Surges</b> <br>
- <ul> <b>Ma, P.</b>,  Berger, J. O., Asher, T. G., Toro, G. R., and Cox, A. T. (2020+) "Uncertainty Quantification in Assessing Storm Surge Hazards.", Journal of the American Statistical Association, Applications and Case Studies. To be submitted. </ul>
+ <li> <b>Ma, P.</b>,  Berger, J. O., Asher, T. G., Toro, G. R., and Cox, A. T. (2020+) "Uncertainty Quantification in Assessing Storm Surge Hazards.", Journal of the American Statistical Association, Applications and Case Studies. To be submitted. </li>
 </li>
 
-<li> <b>Multifidelity Computer Model Emulation for Storm Surges:</b> <br>
+<li> <b>Multifidelity Computer Model Emulation for Storm Surges</b> <br>
  <ul> <b> Ma, P.</b>, Karagiannis, G., Konomi, B. A., Asher, T. G., Toro, G. R., and Cox, A. T. (2020) "<a href="https://arxiv.org/abs/1909.01836" target="blank" style="color:blue;">Multifidelity Computer Model Emulation with High-Dimensional Output: An Application to Storm Surge</a>." <em>Journal of the Royal Statistical Society: Series C</em>. In Revision. arXiv:1909.01836. </ul>
 </li>
  

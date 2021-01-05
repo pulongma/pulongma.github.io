@@ -12,19 +12,19 @@ title: PUBLICATIONS
 <h1>Submitted papers </h1>
 
 <li>
-  Baker, E., Barbillon, P., Fadikar, A., Gramacy, R. B., Herbei, R., Higdon, D., Huang, J., Johnson, L. R., <b>Ma, P.</b>, Mondal, A., Pires, B., Sacks, J., and Sokolov, V. (2020) "<a href="https://arxiv.org/abs/2002.01321" target="blank" style="color:blue;">Analyzing Stochastic Computer Models: A Review with Opportunities</a>." <em>Statistical Science</em>. In Revision. arXiv:2002.01321.
+  Baker, E., Barbillon, P., Fadikar, A., Gramacy, R. B., Herbei, R., Higdon, D., Huang, J., Johnson, L. R., <b>Ma, P.</b>, Mondal, A., Pires, B., Sacks, J., and Sokolov, V. (2020) "<a href="https://arxiv.org/abs/2002.01321" target="blank" style="color:blue;">Analyzing Stochastic Computer Models: A Review with Opportunities</a>." <em>Statistical Science</em>. In Revision.
 </li>
 
-<li> <b> Ma, P.</b> and Bhadra, A. (2020) "<a href="https://arxiv.org/abs/1911.05865" target="blank" style="color:blue;">Kriging: Beyond Mat&eacute;rn</a>." <em>Journal of the American Statistical Association, Theory and Methods</em>. In Revision. arXiv:1911.05865.
+<li> <b> Ma, P.</b> and Bhadra, A. (2020) "<a href="https://arxiv.org/abs/1911.05865" target="blank" style="color:blue;">Kriging: Beyond Mat&eacute;rn</a>." <em>Journal of the American Statistical Association, Theory and Methods</em>. In Revision. 
 </li>
   
 
 
-<li> <b> Ma, P.</b>, Karagiannis, G., Konomi, B. A., Asher, T. G., Toro, G. R., and Cox, A. T. (2020) "<a href="https://arxiv.org/abs/1909.01836" target="blank" style="color:blue;">Multifidelity Computer Model Emulation with High-Dimensional Output: An Application to Storm Surge</a>." <em>Journal of the Royal Statistical Society: Series C</em>. In Revision. arXiv:1909.01836.
+<li> <b> Ma, P.</b>, Karagiannis, G., Konomi, B. A., Asher, T. G., Toro, G. R., and Cox, A. T. (2020) "<a href="https://arxiv.org/abs/1909.01836" target="blank" style="color:blue;">Multifidelity Computer Model Emulation with High-Dimensional Output: An Application to Storm Surge</a>." <em>Journal of the Royal Statistical Society: Series C</em>. In Revision. 
 </li> 
 
 <li> 
-  <b> Ma, P.</b>, Mondal, A., Konomi, B. A., Hobbs, J., Song, J. J., and Kang, E. L. (2020) "<a href="https://arxiv.org/abs/1911.09274" target="blank" style="color:blue;">Computer Model Emulation with High-Dimensional Functional Output in Large-Scale Observing System Uncertainty Experiments</a>." <em>Technometrics</em>. In Revision. arXiv:1911.09274.
+  <b> Ma, P.</b>, Mondal, A., Konomi, B. A., Hobbs, J., Song, J. J., and Kang, E. L. (2020) "<a href="https://arxiv.org/abs/1911.09274" target="blank" style="color:blue;">Computer Model Emulation with High-Dimensional Functional Output in Large-Scale Observing System Uncertainty Experiments</a>." <em>Technometrics</em>. In Revision. 
 </li> 
 
 <br>

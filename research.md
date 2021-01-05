@@ -13,11 +13,11 @@ With space-based observations, remote sensing technology provides a wealth of in
 <br>
 
 <li> <b>Spatial Mapping for OCO-2 Data</b> <br>
-  <ul> <b> Ma, P.</b> and Bhadra, A. (2020) "<a href="https://arxiv.org/abs/1911.05865" target="blank" style="color:blue;">Kriging: Beyond Mat&eacute;rn</a>." <em>Journal of the American Statistical Association, Theory and Methods</em>. In Revision. arXiv:1911.05865. </ul>
+  <ul> <b> Ma, P.</b> and Bhadra, A. (2020) "<a href="https://arxiv.org/abs/1911.05865" target="blank" style="color:blue;">Kriging: Beyond Mat&eacute;rn</a>." <em>Journal of the American Statistical Association, Theory and Methods</em>. In Revision. </ul>
  </li>
 
 <li> <b>Surrogate Modeling in Observing System Uncertainty Experiments in the OCO-2/3 Missions</b> <br>
-  <ul> <b> Ma, P.</b>, Mondal, A., Konomi, B. A., Hobbs, J., Song, J. J., and Kang, E. L. (2020) "<a href="https://arxiv.org/abs/1911.09274" target="blank" style="color:blue;">Computer Model Emulation with High-Dimensional Functional Output in Large-Scale Observing System Uncertainty Experiments</a>." <em>Technometrics</em>. In Revision. arXiv:1911.09274. </ul>
+  <ul> <b> Ma, P.</b>, Mondal, A., Konomi, B. A., Hobbs, J., Song, J. J., and Kang, E. L. (2020) "<a href="https://arxiv.org/abs/1911.09274" target="blank" style="color:blue;">Computer Model Emulation with High-Dimensional Functional Output in Large-Scale Observing System Uncertainty Experiments</a>." <em>Technometrics</em>. In Revision. </ul>
 </li> 
 
 <li> <b>Spatial Downscaling in Observing System Simulation Experiments</b> <br> 
@@ -42,7 +42,7 @@ Hurricane-driven <a href="https://www.nhc.noaa.gov/surge/" target="blank" style=
 </li>
 
 <li> <b>Multifidelity Computer Model Emulation for Storm Surges</b> <br>
- <ul> <b> Ma, P.</b>, Karagiannis, G., Konomi, B. A., Asher, T. G., Toro, G. R., and Cox, A. T. (2020) "<a href="https://arxiv.org/abs/1909.01836" target="blank" style="color:blue;">Multifidelity Computer Model Emulation with High-Dimensional Output: An Application to Storm Surge</a>." <em>Journal of the Royal Statistical Society: Series C</em>. In Revision. arXiv:1909.01836. </ul>
+ <ul> <b> Ma, P.</b>, Karagiannis, G., Konomi, B. A., Asher, T. G., Toro, G. R., and Cox, A. T. (2020) "<a href="https://arxiv.org/abs/1909.01836" target="blank" style="color:blue;">Multifidelity Computer Model Emulation with High-Dimensional Output: An Application to Storm Surge</a>." <em>Journal of the Royal Statistical Society: Series C</em>. In Revision. </ul>
 </li>
  
 <li> <b>Objective Bayes for Multifidelity Computer Models</b> <br>

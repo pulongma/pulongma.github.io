@@ -38,7 +38,7 @@ Hurricane-driven <a href="https://www.nhc.noaa.gov/surge/" target="blank" style=
 <br>
 
 <li> <b>Probabilistic Assessment of Storm Surges</b> <br>
- <ul> <b>Ma, P.</b>,  Berger, J. O., Asher, T. G., Toro, G. R., and Cox, A. T. (2020+) "Uncertainty Quantification in Assessing Storm Surge Hazards.", Journal of the American Statistical Association, Applications and Case Studies. To be submitted. </ul>
+ <ul> <b>Ma, P.</b>,  Berger, J. O., Asher, T. G., Toro, G. R., and Cox, A. T. "Uncertainty Quantification in Assessing Storm Surge Hazards." To be submitted. </ul>
 </li>
 
 <li> <b>Multifidelity Computer Model Emulation for Storm Surges</b> <br>

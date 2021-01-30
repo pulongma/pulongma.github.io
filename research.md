@@ -17,7 +17,7 @@ With space-based observations, remote sensing technology provides a wealth of in
  </li>
 
 <li> <b>Surrogate Modeling in Observing System Uncertainty Experiments in the OCO-2/3 Missions</b> <br>
-  <ul> <b> Ma, P.</b>, Mondal, A., Konomi, B. A., Hobbs, J., Song, J. J., and Kang, E. L. (2020) "<a href="https://arxiv.org/abs/1911.09274" target="blank" style="color:blue;">Computer Model Emulation with High-Dimensional Functional Output in Large-Scale Observing System Uncertainty Experiments</a>." <em>Technometrics</em>. In Revision. </ul>
+  <ul> <b> Ma, P.</b>, Mondal, A., Konomi, B. A., Hobbs, J., Song, J. J., and Kang, E. L. (2020) "<a href="https://arxiv.org/abs/1911.09274" target="blank" style="color:blue;">Computer Model Emulation with High-Dimensional Functional Output in Large-Scale Observing System Uncertainty Experiments</a>." <em>Technometrics</em>. Accepted. </ul>
 </li> 
 
 <li> <b>Spatial Downscaling in Observing System Simulation Experiments</b> <br> 

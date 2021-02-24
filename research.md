@@ -13,7 +13,7 @@ With space-based observations, remote sensing technology provides a wealth of in
 <br>
 
 <li> <b>Spatial Mapping for OCO-2 Data</b> <br>
-  <ul> <b> Ma, P.</b> and Bhadra, A. (2020) "<a href="https://arxiv.org/abs/1911.05865" target="blank" style="color:blue;">Kriging: Beyond Mat&eacute;rn</a>." <em>Journal of the American Statistical Association, Theory and Methods</em>. In Revision. </ul>
+  <ul> <b> Ma, P.</b> and Bhadra, A. (2020) "<a href="https://arxiv.org/abs/1911.05865" target="blank" style="color:blue;">Beyond Mat&eacute;rn: On A Class of Interpretable Confluent Hypergeometric Covariance Functions</a>." <em>Journal of the American Statistical Association, Theory and Methods</em>. In Revision. </ul>
  </li>
 
 <li> <b>Surrogate Modeling in Observing System Uncertainty Experiments in the OCO-2/3 Missions</b> <br>

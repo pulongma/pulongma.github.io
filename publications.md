@@ -13,7 +13,7 @@ title: PUBLICATIONS
 
 
 
-<li> <b> Ma, P.</b> and Bhadra, A. (2020) "<a href="https://arxiv.org/abs/1911.05865" target="blank" style="color:blue;">Kriging: Beyond Mat&eacute;rn</a>." <em>Journal of the American Statistical Association, Theory and Methods</em>. In Revision. 
+<li> <b> Ma, P.</b> and Bhadra, A. (2020) "<a href="https://arxiv.org/abs/1911.05865" target="blank" style="color:blue;">Beyond Mat&eacute;rn:On A Class of Interpretable Confluent Hypergeometric Covariance Functions</a>." <em>Journal of the American Statistical Association, Theory and Methods</em>. In Revision. 
 </li>
   
 

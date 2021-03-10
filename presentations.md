@@ -25,13 +25,13 @@ mathjax: true
 <li> <b>Invited Talk</b>, "Uncertainty Quantification in Assessing Storm Surge Hazards",  The 2020 SIAM Conference on Uncertainty Quantification, Munich, Germany, Mar 2020. Cancelled. </li> 
 
 <li> <b> Invited Talk</b>, "Kriging: Beyond Matérn", The SAMSI Deep Learning Transition Workshop, Duke University, Durham, Mar 2020. Cancelled. </li> 
- 
-<li> <b> Invited Talk</b>, "Kriging: Beyond Matérn", Department of Statistics, Virginia Tech, Blacksburg, VA, Jan 2020. </li> 
-
-<li> <b> Invited Talk</b>, "Kriging: Beyond Matérn", Department of Statistics, University of Wisconsin-Madison, Madison, WI, Jan 2020. </li> 
-
+<!--
+<li> <b> Invited Talk</b>, "Kriging: Beyond Matérn", Department of Statistics, Virginia Tech, Blacksburg, VA, Jan 2020. </li> -->
+<!--
+<li> <b> Invited Talk</b>, "Kriging: Beyond Matérn", Department of Statistics, University of Wisconsin-Madison, Madison, WI, Jan 2020. </li> -->
+<!--
 <li> <b> Invited Talk</b>, "Kriging: Beyond Matérn", School of Mathematical and Statistical Sciences, Arizona State University, AZ, Jan 2020. </li> 
-
+-->
 <li>  Contributed Talk, "Multifidelity Computer Model Emulation with High-Dimensional Output: An Application to Storm Surge", Joint Statistical Meetings, Denver, CO,  Aug 2019  </li> 
    
 <li> <b>Invited Talk</b>, "An Emulator Approach to Quantifying the Risk Due to Storm Surge", The SAMSI MUMS Transition Workshop and SPUQ, University of North Carolina at Chapel Hill, NC, May 2019 </li>

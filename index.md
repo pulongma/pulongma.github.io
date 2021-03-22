@@ -41,7 +41,7 @@ Email: pulong.ma [at] duke.edu <br/>
 
 Employment
 ======
-* <a href="https://www.samsi.info" target="blank" style="color:blue;">Statistical and Applied Mathematical Sciences Institute</a>, Durham, NC <br/>
+* <a href="https://www.samsi.info" target="blank" style="color:blue;">Statistical and Applied Mathematical Sciences Institute</a>, Research Triangle Park, NC <br/>
 Postdoctoral Fellow, <a href="https://www.samsi.info/model-uncertainty-mathematical-statistical-mums/" target="blank" style="color:blue;">MUMS program</a>, Aug 2018 - Present 
 * Duke University, Durham, NC <br/>
 Postdoctoral Fellow, Department of Statistical Science, Aug 2018 - Present <br/>

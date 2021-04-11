@@ -37,7 +37,7 @@ title: PUBLICATIONS
 <li> <b> Ma, P.</b> (2020) "Objective Bayesian Analysis of a Cokriging Model for Hierarchical Multifidelity Codes." <em>SIAM/ASA Journal on Uncertainty Quantification</em>, 8(4), 1358-1382. <a href="https://arxiv.org/abs/1910.10225" target="blank" >[arXiv]</a> <a href="https://doi.org/10.1137/19M1289893" target="blank" >[article]</a> <a href="https://github.com/pulongma/OBayesARCokrig" target="blank" >[code]</a>
 </li>
 
-<li> <b>Ma, P.</b> and Kang, E. L. (2020) "A Fused Gaussian Process Model for Very Large Spatial Data." <em>Journal of Computational and Graphical Statistics</em>, 29(3), 479-489. <a href="https://arxiv.org/abs/1702.08797" target="blank" style="color:blue;">[arXiv]</a> <a href="https://doi.org/10.1080/10618600.2019.1704293" target="blank" style="color:blue;">[article]</a> 
+<li> <b>Ma, P.</b> and Kang, E. L. (2020) "A Fused Gaussian Process Model for Very Large Spatial Data." <em>Journal of Computational and Graphical Statistics</em>, 29(3), 479-489. <a href="https://arxiv.org/abs/1702.08797" target="blank" style="color:blue;">[arXiv]</a> <a href="https://doi.org/10.1080/10618600.2019.1704293" target="blank" style="color:blue;">[article]</a> <a href="https://github.com/pulongma/FGPmodeling" target="blank" style="color:blue;">[code]</a>
   <ul>&bull;Early version wins the Student Paper Competition in the 2017 ICSA Applied Statistics Symposium</ul>
   <ul>&bull;Early version wins the honorable mention in the 2016 Student Paper Competition in the Section on Statistics and the Environment of American Statistical Association</ul>
 </li>
@@ -53,7 +53,7 @@ title: PUBLICATIONS
 <li> <b>Ma, P.</b>, Konomi, B., and Kang, E. L. (2019) "An Additive Approximate Gaussian Process Model for Large Spatio-Temporal Data." <em>Environmetrics</em>, DOI:10.1002/env.2569. <a href="https://arxiv.org/abs/1801.00319" target="blank" style="color:blue;">[arXiv]</a> <a href="https://doi.org/10.1002/env.2569" target="blank" style="color:blue;">[article]</a>
 </li>
 
-<li> <b>Ma, P.</b>, Kang, E. L., Braverman, A., and Nguyen, H. (2019) "Spatial Statistical Downscaling for Constructing High-Resolution Nature Runs in Global Observing System Simulation Experiments." <em>Technometrics</em>, 61(3), 322-340. <a href="https://arxiv.org/abs/1711.00484" target="blank" style="color:blue;">[arXiv]</a> <a href="https://doi.org/10.1080/00401706.2018.1524791" target="blank" style="color:blue;">[article]</a> 
+<li> <b>Ma, P.</b>, Kang, E. L., Braverman, A., and Nguyen, H. (2019) "Spatial Statistical Downscaling for Constructing High-Resolution Nature Runs in Global Observing System Simulation Experiments." <em>Technometrics</em>, 61(3), 322-340. <a href="https://arxiv.org/abs/1711.00484" target="blank" style="color:blue;">[arXiv]</a> <a href="https://doi.org/10.1080/00401706.2018.1524791" target="blank" style="color:blue;">[article]</a> <a href="https://github.com/pulongma/SpatialDownscaling" target="blank" style="color:blue;">[code]</a>
   <ul>&bull;Early version wins the 2018 Student Paper Competition in the Section on Statistics and the Environment of American Statistical Association</ul>
 </li>
 

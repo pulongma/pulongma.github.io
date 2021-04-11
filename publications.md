@@ -31,7 +31,7 @@ title: PUBLICATIONS
 </li>
 
 <li> 
-  <b> Ma, P.</b>, Mondal, A., Konomi, B. A., Hobbs, J., Song, J. J., and Kang, E. L. (2021) "<a href="https://doi.org/10.1080/00401706.2021.1895890" target="blank" style="color:blue;">Computer Model Emulation with High-Dimensional Functional Output in Large-Scale Observing System Uncertainty Experiments</a>." <em>Technometrics</em>. Accepted. DOI:10.1080/00401706.2021.1895890
+  <b> Ma, P.</b>, Mondal, A., Konomi, B. A., Hobbs, J., Song, J. J., and Kang, E. L. (2021) "<a href="https://doi.org/10.1080/00401706.2021.1895890" target="blank" style="color:blue;">Computer Model Emulation with High-Dimensional Functional Output in Large-Scale Observing System Uncertainty Experiments</a>." <em>Technometrics</em>. Accepted. DOI:10.1080/00401706.2021.1895890 <a href="https://github.com/pulongma/Computer-Model-Emulation-with-High-Dimensional-Functional-Output-in-Large-Scale-Observing-System-Unc" target="blank" >code</a.
 </li> 
 
 <li> <b> Ma, P.</b> (2020) "<a href="https://epubs.siam.org/doi/10.1137/19M1289893" target="blank" style="color:blue;">Objective Bayesian Analysis of a Cokriging Model for Hierarchical Multifidelity Codes</a>." <em>SIAM/ASA Journal on Uncertainty Quantification</em>, 8(4), 1358-1382.

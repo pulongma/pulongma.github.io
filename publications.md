@@ -65,8 +65,8 @@ title: PUBLICATIONS
 <br>
 
 <h1>Technical report </h1>
-<li> Kaufman, W., <b>Ma, P.</b>, Hammerling, D., and Lombardozzi, D. (2016) "Ozone and Foliar Damage Analysis: NCAR and St. Louis." <em>NCAR Technical Note NCAR/TN-530+STR</em>, 31 pp, doi: 10.5072/FK2TX3B723. </li> <a href="http://dx.doi.org/10.5065/D6WH2NCQ" target="blank" style="color:blue;">[PDF]</a>
-
+<li> Kaufman, W., <b>Ma, P.</b>, Hammerling, D., and Lombardozzi, D. (2016) "Ozone and Foliar Damage Analysis: NCAR and St. Louis." <em>NCAR Technical Note NCAR/TN-530+STR</em>, 31 pp, doi: 10.5072/FK2TX3B723.  <a href="http://dx.doi.org/10.5065/D6WH2NCQ" target="blank" style="color:blue;">[PDF]</a>
+</li>
 
 
 </ol>

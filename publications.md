@@ -54,7 +54,7 @@ title: PUBLICATIONS
 </li>
 
 <li> <b>Ma, P.</b>, Kang, E. L., Braverman, A., and Nguyen, H. (2019) "Spatial Statistical Downscaling for Constructing High-Resolution Nature Runs in Global Observing System Simulation Experiments." <em>Technometrics</em>, 61(3), 322-340. <a href="https://arxiv.org/abs/1711.00484" target="blank" style="color:blue;">[arXiv]</a> <a href="https://doi.org/10.1080/00401706.2018.1524791" target="blank" style="color:blue;">[article]</a> 
-  <ul>--Early version wins the 2018 Student Paper Competition in the Section on Statistics and the Environment of American Statistical Association</ul>
+  <ul>&bull;Early version wins the 2018 Student Paper Competition in the Section on Statistics and the Environment of American Statistical Association</ul>
 </li>
 
 

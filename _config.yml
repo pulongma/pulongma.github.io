@@ -31,8 +31,11 @@ future                   : true
 # Reading Files
 include:
   - .htaccess
-  - _pages
-  - files
+  - index.md
+  - publications.md
+  - research.md
+  - teaching.md
+  - presentations.md
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"

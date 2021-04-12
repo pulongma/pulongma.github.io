@@ -20,7 +20,7 @@ title: PUBLICATIONS
 <li> <b> Ma, P.</b>, Karagiannis, G., Konomi, B. A., Asher, T. G., Toro, G. R., and Cox, A. T. (2020) "Multifidelity Computer Model Emulation with High-Dimensional Output: An Application to Storm Surge." <em>Journal of the Royal Statistical Society: Series C</em>. In Revision. <a href="https://arxiv.org/abs/1909.01836" target="blank" style="color:blue;">[arXiv]</a>
 </li> 
 
-
+<br>
 
 
 <h1>Peer-reviewed and published papers </h1> 

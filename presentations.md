@@ -5,7 +5,7 @@ mathjax: true
 ---
 
 <p style="line-height: 1.4em;">
-<ul> 
+<ol> 
 
 <li> <b>Invited Talk</b>, "Multifidelity Computer Model Emulation with High-Dimensional Output: An Application to Storm Surge", School of Engineering, The University of Melbourne, Online,  Dec 2020.
 </li>
@@ -55,6 +55,6 @@ mathjax: true
 <li> Contributed Talk, "Conditional Simulation for Downscaling Very Large Spatial Data", Joint Statistical Meetings, Seattle, WA, Aug 2015 </li> 
     
     
-</ul>
+</ol>
 
 </p>

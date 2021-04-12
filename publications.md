@@ -22,7 +22,6 @@ title: PUBLICATIONS
 
 
 
-<br>
 
 <h1>Peer-reviewed and published papers </h1> 
 

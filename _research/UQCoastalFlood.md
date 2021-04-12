@@ -1,9 +1,3 @@
----
-layout: default
-title:  "RESEARCH"
-mathjax: true
-categories: jekyll update
----
 
 <h1 style="margin:0 auto; text-align:center; width:80px;">Uncertainty Quantification for Coastal Flood Hazard Studies</h1> 
 <div style="text-align: justify; line-height: 1.2em;">

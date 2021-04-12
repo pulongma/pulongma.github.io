@@ -62,7 +62,6 @@ title: PUBLICATIONS
 </li>
 </ol>
 
-<br>
 
 
 <h1>Technical report </h1>

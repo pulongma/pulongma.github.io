@@ -4,7 +4,7 @@ title: PUBLICATIONS
 ---
 
 
-<ol reversed>
+<ol start="1">
   
 
 
@@ -73,7 +73,6 @@ title: PUBLICATIONS
 <h1>Statistical software</h1>
 <ol start="1">
 <li> Ma, P. (2020) R package "ARCokrig: Autoregressive Cokriging Models for Multifidelity Codes." <a href="https://github.com/pulongma/ARCokrig" target="blank" style="color:blue;">[GitHub]</a> <a href="https://CRAN.R-project.org/package=ARCokrig" target="blank" style="color:blue;">[CRAN]</a> 
- 
-  </li>
+</li>
  
 </ol>

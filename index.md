@@ -43,8 +43,8 @@ Employment
 ======
 * <a href="https://www.samsi.info" target="blank" style="color:blue;">Statistical and Applied Mathematical Sciences Institute</a>, Research Triangle Park, NC <br/>
 Postdoctoral Fellow, <a href="https://www.samsi.info/model-uncertainty-mathematical-statistical-mums/" target="blank" style="color:blue;">MUMS program</a>, Aug 2018 - Present 
-* Duke University, Durham, NC <br/>
-Postdoctoral Fellow, Department of Statistical Science, Aug 2018 - Present <br/>
+* <a href="https://stat.duke.edu" target="blank" style="color:blue;">Department of Statistical Science</a>, Duke University, Durham, NC <br/>
+Postdoctoral Fellow, Aug 2018 - Present <br/>
 Mentor: Dr. <a href="http://www2.stat.duke.edu/~berger/" target="blank" style="color:blue;">James O. Berger</a>, Arts and Sciences Distinguished Professor Emeritus of Statistics
 
 

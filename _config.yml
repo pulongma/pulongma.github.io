@@ -31,11 +31,12 @@ output_dir: "."
 # Reading Files
 include:
   - index.md
+  - PulongMa_CV.pdf
   - publications.md
   - research.md
   - teaching.md
   - presentations.md
-  - CV.pdf
+  
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"

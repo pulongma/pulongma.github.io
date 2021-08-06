@@ -46,8 +46,9 @@ Postdoctoral Fellow, <a href="https://www.samsi.info/model-uncertainty-mathemati
 * <a href="https://stat.duke.edu" target="blank" style="color:blue;">Department of Statistical Science</a>, Duke University, Durham, NC <br/>
 Postdoctoral Fellow, Aug 2018 - 2021 <br/>
 Mentors: Dr. <a href="http://www2.stat.duke.edu/~berger/" target="blank" style="color:blue;">James O. Berger</a>, Arts and Sciences Distinguished Professor Emeritus of Statistics
+-->
 
-
+<!--
 Education
 ======
 * Ph.D. in Statistics, University of Cincinnati, Cincinnati, OH, 2018 <br/>

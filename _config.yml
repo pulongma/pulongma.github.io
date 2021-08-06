@@ -91,9 +91,9 @@ collections:
   TEACHING:
     output: true
     permalink: /:collection/:path/
-  PRESENTATIONS:
-    output: true
-    permalink: /:collection/:path/
+#  PRESENTATIONS:
+#    output: true
+#    permalink: /:collection/:path/
   CV: 
     output: true
     permalink: /:collection/:path/
@@ -183,6 +183,6 @@ header_pages:
 - publications.md
 - research.md
 - teaching.md
-- presentations.md
+#- presentations.md
 - CV.md
 

@@ -31,7 +31,7 @@ output_dir: "."
 # Reading Files
 include:
   - index.md
-  - PulongMa_CV.pdf
+  - CV.md
   - publications.md
   - research.md
   - teaching.md
@@ -181,7 +181,7 @@ relative_links:
 
 header_pages:
 - index.md
-- PulongMa_CV.pdf
+- CV.md
 - publications.md
 - research.md
 - teaching.md

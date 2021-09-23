@@ -74,7 +74,7 @@ title: PUBLICATIONS
 <ol start="1">
 <li> Ma, P. (2021) R package "GPBayes: Tools for Gaussian Process Modeling in Uncertainty Quantification." <a href="https://github.com/pulongma/GPBayes" target="blank" style="color:blue;">[GitHub]</a> <a href="https://CRAN.R-project.org/package=GPBayes" target="blank" style="color:blue;">[CRAN]</a>
 </li>
-<li> Ma, P. (2020) R package "ARCokrig: Autoregressive Cokriging Models for Multifidelity Codes." <a href="https://github.com/pulongma/ARCokrig" target="blank" style="color:blue;">[GitHub]</a> <a href="https://CRAN.R-project.org/package=ARCokrig" target="blank" style="color:blue;">[CRAN]</a> `r badge_cran_download("ARCokrig", "grand-total", "blue")`
+<li> Ma, P. (2020) R package "ARCokrig: Autoregressive Cokriging Models for Multifidelity Codes." <a href="https://github.com/pulongma/ARCokrig" target="blank" style="color:blue;">[GitHub]</a> <a href="https://CRAN.R-project.org/package=ARCokrig" target="blank" style="color:blue;">[CRAN]</a> 
 </li>
   
 

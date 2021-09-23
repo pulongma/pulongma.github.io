@@ -72,9 +72,9 @@ title: PUBLICATIONS
 
 <h1>Statistical software</h1>
 <ol start="1">
-<li> Ma, P. (2021) R package "GPBayes: Tools for Gaussian Process Modeling in Uncertainty Quantification." <a href="https://github.com/pulongma/GPBayes" target="blank" style="color:blue;">[GitHub]</a> <a href="https://CRAN.R-project.org/package=GPBayes" target="blank" style="color:blue;">[CRAN]</a> <img alt="CRAN/METACRAN" src="https://img.shields.io/cran/v/GPBayes?style=plastic"> 
+<li> Ma, P. (2021) R package "GPBayes: Tools for Gaussian Process Modeling in Uncertainty Quantification." <a href="https://github.com/pulongma/GPBayes" target="blank" style="color:blue;">[GitHub]</a> <a href="https://CRAN.R-project.org/package=GPBayes" target="blank" style="color:blue;">[CRAN]</a> <img alt="CRAN/METACRAN" src="https://img.shields.io/cran/v/GPBayes?style=plastic"> <img alt="CRAN/METACRAN" src="https://cranlogs.r-pkg.org/badges/GPBayes"> <img alt="CRAN/METACRAN" src="https://cranlogs.r-pkg.org/badges/grand-total/GPBayes"> 
 </li>
-<li> Ma, P. (2020) R package "ARCokrig: Autoregressive Cokriging Models for Multifidelity Codes." <a href="https://github.com/pulongma/ARCokrig" target="blank" style="color:blue;">[GitHub]</a> <a href="https://CRAN.R-project.org/package=ARCokrig" target="blank" style="color:blue;">[CRAN]</a> <img alt="CRAN/METACRAN" src="https://img.shields.io/cran/v/ARCokrig?style=plastic"> <img alt="CRAN/METACRAN" src="https://cranlogs.r-pkg.org/badges/ARCokrig"> <img alt="CRAN/METACRAN" src="https://img.shields.io/cran/v/ARCokrig?style=plastic"> <img alt="CRAN/METACRAN" src="https://cranlogs.r-pkg.org/badges/grand-total/ARCokrig"> 
+<li> Ma, P. (2020) R package "ARCokrig: Autoregressive Cokriging Models for Multifidelity Codes." <a href="https://github.com/pulongma/ARCokrig" target="blank" style="color:blue;">[GitHub]</a> <a href="https://CRAN.R-project.org/package=ARCokrig" target="blank" style="color:blue;">[CRAN]</a> <img alt="CRAN/METACRAN" src="https://img.shields.io/cran/v/ARCokrig?style=plastic"> <img alt="CRAN/METACRAN" src="https://cranlogs.r-pkg.org/badges/ARCokrig"> <img alt="CRAN/METACRAN" src="https://cranlogs.r-pkg.org/badges/grand-total/ARCokrig"> 
 </li>
   
 

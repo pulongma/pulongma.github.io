@@ -18,7 +18,7 @@ I am Pulong Ma, an assistant professor in the <a href="https://www.clemson.edu/s
 <p style="text-align: justify; line-height: 1.2em;">
 My statistical research is stimulated by real-world challenges and aims at addressing real-world problems in physical sciences including remote sensing science and climate science, engineering science, and medical science. I work closely with climate scientists and ocean scientists to address data analytic problems in remote sensing and coastal flood hazard studies. My current research interest is focused on the deveopment of flexible statistical methods to understand physical and environmental processes. It spans the following areas of statistics and machine learning:</p>
 <ul>
-  <li> <b>Uncertainty Quantification (UQ)</b>: Computer model validation, computer model emulation, model discrepancy, Bayesian calibraiton</li>
+  <li> <b>Uncertainty Quantification (UQ)</b>: Computer model validation, computer model emulation, model discrepancy, Bayesian calibration</li>
   
   <li><b>Bayesian Statistics</b>: Nonparametric Bayes, objective Bayes, Bayesian hierarchical modeling and computation, Bayesian variable selection, model uncertainty </li>
   

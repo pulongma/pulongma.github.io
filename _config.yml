@@ -84,12 +84,12 @@ collections:
   HOME:
     output: true
     permalink: /:collection/:path/
-  NEWS: 
-    defaults: 
-      layout: post
-    output: true
-    permalink: /news/:path/
-    news_limit: 5
+ # NEWS: 
+ #   defaults: 
+ #     layout: post
+ #   output: true
+ #   permalink: /news/:path/
+ #   news_limit: 5
     
   PUBLICATIONS:
     output: true

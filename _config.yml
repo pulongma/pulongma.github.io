@@ -190,6 +190,7 @@ relative_links:
 
 header_pages:
 - index.md
+#- news.md
 - publications.md
 - research.md
 - teaching.md

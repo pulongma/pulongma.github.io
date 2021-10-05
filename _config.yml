@@ -84,12 +84,12 @@ collections:
   HOME:
     output: true
     permalink: /:collection/:path/
-  #NEWS: 
-  #  defaults: 
-  #    layout: post
-  #  output: true
-  #  permalink: /news/:path/
-  #  news_limit: 5
+  NEWS: 
+    defaults: 
+      layout: post
+    output: true
+    permalink: /news/:path/
+    news_limit: 5
     
   PUBLICATIONS:
     output: true
@@ -110,7 +110,7 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
+  # _news
   - scope:
       path: ""
       type: posts
@@ -190,7 +190,7 @@ relative_links:
 
 header_pages:
 - index.md
-#- news.md
+- news.md
 - publications.md
 - research.md
 - teaching.md

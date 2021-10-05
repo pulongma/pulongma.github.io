@@ -110,7 +110,7 @@ collections:
 
 # Defaults
 defaults:
-  # _news
+  # _posts
   - scope:
       path: ""
       type: posts

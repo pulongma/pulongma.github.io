@@ -84,12 +84,12 @@ collections:
   HOME:
     output: true
     permalink: /:collection/:path/
-  NEWS: 
-    defaults: 
-      layout: post
-    output: true
-    permalink: /news/:path/
-    news_limit: 5
+  #NEWS: 
+  #  defaults: 
+  #    layout: post
+  #  output: true
+  #  permalink: /news/:path/
+  #  news_limit: 5
     
   PUBLICATIONS:
     output: true
@@ -150,7 +150,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
- #paginate: 5 # amount of posts to show
+ paginate: 5 # amount of posts to show
  paginate_path: /page:num/
 timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
@@ -162,7 +162,7 @@ plugins:
   - jekyll-feed
   - jekyll-redirect-from
   - jekyll-relative-links
-  - jemoji
+  #- jemoji
   
 # mimic GitHub Pages with --safe
 whitelist:
@@ -190,7 +190,7 @@ relative_links:
 
 header_pages:
 - index.md
-- news.md
+#- news.md
 - publications.md
 - research.md
 - teaching.md

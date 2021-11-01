@@ -4,6 +4,10 @@ title: TEACHING
 ---
 <p style="text-align: justify;">
 <ul>
+  <li> Clemson University, School of Mathematical and Statistical Sciences, Clemson, SC </li>
+  <ul>
+    <li> Instructor, STAT 3090 - Introductory Business Statistics, Fall 2021 </li>
+  </ul>
   <li> The Statistical and Applied Mathematical Sciences Institute, Durham, NC </li>
   <ul>
     <li> Faculty mentor, The 25th Industrial Mathematical and Statistical Modeling Workshop, North Carolina State University, NC, July 2019 </li>
@@ -11,7 +15,7 @@ title: TEACHING
     <li> Hands-on session on R in the Story of Data Science and Machine Learning Workshop, Mar 2019 </li>
     <li> Lecture on R tutorials in the Undergraduate Workshop on Uncertainty Quantification, Feb 2019 </li>
   </ul>
-  <li> Department of Mathematical Sciences, University of Cincinnati </li>
+  <li> University of Cincinnati, Department of Mathematical Sciences </li>
   <ul>
    <li> Instructor, MATH 1014 - Mathematics of Social Choice, Spring 2018 </li>
    <li> Teaching Assistant, MATH 1062 - Calculus II section 010 and 011, Spring 2014 </li>

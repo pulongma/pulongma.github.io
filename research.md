@@ -20,7 +20,7 @@ My statistical research is stimulated by real-world challenges and aims at addre
 I currently work closely with climate scientists and ocean scientists to address data analytic problems in remote sensing and coastal flood hazard studies. Motivated by such interdisciplinary collaborations, I recently focus on developoing statistical methods that allow flexible model structures and scalable computations for analyzing big and complex data with spatial dependence and their use in complex real-world applications including environmental mapping, probabilistic assessment of remote sensing retrievals, and risk assessment of storm surges, which can be categorized into three directions:
 <ul>
   <li> Statistical methods for constructing flexible covariance function models and theoretical properties in use of these models in both Bayesian and frequentist frameworks; </li>
-  <li> Bayesian multi-scale methods and tree-based methods for Gaussian process models and their theoretical properties; </li> 
+  <li> Bayesian multi-scale methods and tree-based methods for Gaussian process modeling and their theoretical properties; </li> 
   <li> Bayesian methods for emulating, calibrating, and validating complex computer models with high-dimensional/functional input and massive functional/spatial outputs. </li> 
   </ul>
 </p>

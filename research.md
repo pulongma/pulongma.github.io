@@ -4,7 +4,24 @@ title: RESEARCH
 mathjax: true
 ---
 
+<p style="text-align: justify; line-height: 1.2em;">
+My statistical research is stimulated by real-world challenges and aims at addressing real-world problems in physical sciences including remote sensing science and climate science, engineering science, and medical science. My research interest is focused on the deveopment of flexible statistical methods to understand physical and environmental processes. It spans the following areas of statistics and machine learning:</p>
+<ul>
+  <li> <b>Uncertainty Quantification (UQ)</b>: Computer model validation, computer model emulation, model discrepancy, Bayesian calibration</li>
+  
+  <li><b>Bayesian Statistics</b>: Nonparametric Bayes, objective Bayes, Bayesian hierarchical modeling and computation, Bayesian variable selection, model uncertainty </li>
+  
+  <li> <b>Spatial and Spatio-Temporal Statistics</b>: Random fields, nonstationary space-time processes, dynamic spatio-temporal models, multivariate models, data fusion </li>
+</ul>
 
+I currently work closely with climate scientists and ocean scientists to address data analytic problems in remote sensing and coastal flood hazard studies. Motivatied by such interdisciplinary collaborations, I recently focus on developoing statistical methods that allow flexible model structures and scalable computations for analyzing big and complex data with spatial dependence and their use in complex real-world applications including environmental mapping, probabilistic assessment of remote sensing retrievals, and risk assessment of storm surges, which can be categorized into three directions:
+<ul>
+  <li> Statistical methods for constructing flexible covariance function models and theoretical properties in use of these models in both Bayesian and frequentist frameworks; </li>
+  <li> Bayesian multi-scale methods and tree-based methods for Gaussian process models and their theoretical properties; </li> 
+  <li> Bayesian methods for emulating, calibrating, and validating complex computer models with high-dimensional/functional input and massive functional/spatial outputs. </li> 
+<br/>
+
+  
 Uncertainty Quantification for Remote Sensing 
 ======
 <div style="text-align: justify; line-height: 1.2em;">

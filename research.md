@@ -4,6 +4,7 @@ title: RESEARCH
 mathjax: true
 ---
 
+
 <p style="text-align: justify; line-height: 1.2em;">
 My statistical research is stimulated by real-world challenges and aims at addressing real-world problems in physical sciences including remote sensing science and climate science, engineering science, and medical science. My research interest is focused on the deveopment of flexible statistical methods to understand physical and environmental processes. It spans the following areas of statistics and machine learning:
 <ul>
@@ -21,15 +22,15 @@ I currently work closely with climate scientists and ocean scientists to address
   <li> Statistical methods for constructing flexible covariance function models and theoretical properties in use of these models in both Bayesian and frequentist frameworks; </li>
   <li> Bayesian multi-scale methods and tree-based methods for Gaussian process models and their theoretical properties; </li> 
   <li> Bayesian methods for emulating, calibrating, and validating complex computer models with high-dimensional/functional input and massive functional/spatial outputs. </li> 
+  </ul>
 </p>
 <br/>
 
-<p style="text-align: justify; line-height: 1.2em;">
 Two example projects are given below. 
-  
+ 
 Uncertainty Quantification for Remote Sensing </p>
 ======
-<p style="text-align: justify; line-height: 1.2em;">
+<div style="text-align: justify; line-height: 1.2em;">
 With space-based observations, remote sensing technology provides a wealth of information for understanding geophysical processes with unprecedented spatial and temporal coverage. Quantitative inference for the global carbon cycle has been bolstered by greenhouse gas observing satellites. <a href="https://ocov2.jpl.nasa.gov/" target="blank" style="color:blue;">NASA’s Orbiting Carbon Observatory-2 (OCO-2)</a> collects tens of thousands of observations of reflected sunlight daily. These observed spectra, or radiances, are used to infer the atmospheric carbon dioxide (CO2) at fine spatial and temporal resolution with substantial coverage across the globe. Estimates of atmospheric CO2 are computed from the observed radiances using an inverse method known as a retrieval algorithm. The resulting estimates of geophysical quantities of interest are called retrievals. A key task in remote sensing science is to perform probabilistic assessment of remote sensing retrievals. However, different from many other disciplines, it is infeasible to perform physical experiments to study the quality of remote sensing retrievals thoroughly because a representative ground truth of atmospheric variables is usually lacking. Part of my research has focused on developing UQ methodologies to facilitate probabilistic assessment of remote sensing retrievals. <!--<a href="/_research/UQRemoteSensing.md" target="blank">See more</a>. -->
 <br>
 <br>
@@ -46,7 +47,7 @@ With space-based observations, remote sensing technology provides a wealth of in
   <ul><b>Ma, P.</b>, Kang, E. L., Braverman, A., and Nguyen, H. (2019) "<a href="https://doi.org/10.1080/00401706.2018.1524791" target="blank" style="color:blue;">Spatial Statistical Downscaling for Constructing High-Resolution Nature Runs in Global Observing System Simulation Experiments</a>." <em>Technometrics</em>, 61(3), 322-340. </ul>
 </li>
 
-</p>
+</div>
 <br>
 
 

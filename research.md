@@ -27,7 +27,7 @@ I currently work closely with climate scientists and ocean scientists to address
 <p style="text-align: justify; line-height: 1.2em;">
 Two example projects are given below. 
   
-Uncertainty Quantification for Remote Sensing 
+Uncertainty Quantification for Remote Sensing </p>
 ======
 <div style="text-align: justify; line-height: 1.2em;">
 With space-based observations, remote sensing technology provides a wealth of information for understanding geophysical processes with unprecedented spatial and temporal coverage. Quantitative inference for the global carbon cycle has been bolstered by greenhouse gas observing satellites. <a href="https://ocov2.jpl.nasa.gov/" target="blank" style="color:blue;">NASA’s Orbiting Carbon Observatory-2 (OCO-2)</a> collects tens of thousands of observations of reflected sunlight daily. These observed spectra, or radiances, are used to infer the atmospheric carbon dioxide (CO2) at fine spatial and temporal resolution with substantial coverage across the globe. Estimates of atmospheric CO2 are computed from the observed radiances using an inverse method known as a retrieval algorithm. The resulting estimates of geophysical quantities of interest are called retrievals. A key task in remote sensing science is to perform probabilistic assessment of remote sensing retrievals. However, different from many other disciplines, it is infeasible to perform physical experiments to study the quality of remote sensing retrievals thoroughly because a representative ground truth of atmospheric variables is usually lacking. Part of my research has focused on developing UQ methodologies to facilitate probabilistic assessment of remote sensing retrievals. <!--<a href="/_research/UQRemoteSensing.md" target="blank">See more</a>. -->
@@ -73,6 +73,6 @@ Hurricane-driven <a href="https://www.nhc.noaa.gov/surge/" target="blank" style=
   <ul> <b> Ma, P.</b> (2020) "<a href="https://epubs.siam.org/doi/10.1137/19M1289893" target="blank" style="color:blue;">Objective Bayesian Analysis of a Cokriging Model for Hierarchical Multifidelity Codes</a>." <em>SIAM/ASA Journal on Uncertainty Quantification</em>, 8(4), 1358-1382. </ul>
 </li>
 
-</p>
+
 </div>
 

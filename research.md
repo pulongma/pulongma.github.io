@@ -24,6 +24,7 @@ I currently work closely with climate scientists and ocean scientists to address
 </p>
 <br/>
 
+<p style="text-align: justify; line-height: 1.2em;">
 Two example projects are given below. 
   
 Uncertainty Quantification for Remote Sensing 
@@ -72,6 +73,6 @@ Hurricane-driven <a href="https://www.nhc.noaa.gov/surge/" target="blank" style=
   <ul> <b> Ma, P.</b> (2020) "<a href="https://epubs.siam.org/doi/10.1137/19M1289893" target="blank" style="color:blue;">Objective Bayesian Analysis of a Cokriging Model for Hierarchical Multifidelity Codes</a>." <em>SIAM/ASA Journal on Uncertainty Quantification</em>, 8(4), 1358-1382. </ul>
 </li>
 
- 
+</p>
 </div>
 

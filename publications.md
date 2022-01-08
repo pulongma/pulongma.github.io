@@ -13,8 +13,7 @@ title: PUBLICATIONS
 
 
 
-<li> <b> Ma, P.</b> and Bhadra, A. (2020) "Beyond Mat&eacute;rn: On A Class of Interpretable Confluent Hypergeometric Covariance Functions." <em>Journal of the American Statistical Association, Theory and Methods</em>. In Revision. <a href="https://arxiv.org/abs/1911.05865" target="blank" style="color:blue;">[arXiv]</a>
-</li>
+
   
 
 <li> <b> Ma, P.</b>, Karagiannis, G., Konomi, B. A., Asher, T. G., Toro, G. R., and Cox, A. T. (2020) "Multifidelity Computer Model Emulation with High-Dimensional Output: An Application to Storm Surge." <em>Journal of the Royal Statistical Society: Series C</em>. In Revision. <a href="https://arxiv.org/abs/1909.01836" target="blank" style="color:blue;">[arXiv]</a>
@@ -25,6 +24,9 @@ title: PUBLICATIONS
 
 <h1>Peer-reviewed and published papers </h1> 
 
+<li> <b> Ma, P.</b> and Bhadra, A. (2022) "Beyond Mat&eacute;rn: On A Class of Interpretable Confluent Hypergeometric Covariance Functions." <em>Journal of the American Statistical Association, Theory and Methods</em>. Accepted. DOI:10.1080/01621459.2022.2027775. <a href="https://arxiv.org/abs/1911.05865" target="blank" style="color:blue;">[arXiv]</a> <a href="https://doi.org/10.1080/01621459.2022.2027775" target="blank" style="color:blue;">[JASA]</a>
+</li>
+  
 <li>
   Baker, E., Barbillon, P., Fadikar, A., Gramacy, R. B., Herbei, R., Higdon, D., Huang, J., Johnson, L. R., <b>Ma, P.</b>, Mondal, A., Pires, B., Sacks, J., and Sokolov, V. (2021) "Analyzing Stochastic Computer Models: A Review with Opportunities." <em>Statistical Science</em>. Accepted. <a href="https://arxiv.org/abs/2002.01321" target="blank" style="color:blue;">[arXiv]</a>
 </li>

@@ -28,7 +28,7 @@ title: PUBLICATIONS
 </li>
   
 <li>
-  Baker, E., Barbillon, P., Fadikar, A., Gramacy, R. B., Herbei, R., Higdon, D., Huang, J., Johnson, L. R., <b>Ma, P.</b>, Mondal, A., Pires, B., Sacks, J., and Sokolov, V. (2021) "Analyzing Stochastic Computer Models: A Review with Opportunities." <em>Statistical Science</em>. Accepted. <a href="https://arxiv.org/abs/2002.01321" target="blank" style="color:blue;">[arXiv]</a>
+  Baker, E., Barbillon, P., Fadikar, A., Gramacy, R. B., Herbei, R., Higdon, D., Huang, J., Johnson, L. R., <b>Ma, P.</b>, Mondal, A., Pires, B., Sacks, J., and Sokolov, V. (2022) "Analyzing Stochastic Computer Models: A Review with Opportunities." <em>Statistical Science</em>, 37(1), 64-89. <a href="https://arxiv.org/abs/2002.01321" target="blank" style="color:blue;">[arXiv]</a> <a href="https://doi.org/10.1214/21-STS822" target="blank" style="color:blue;">[STS]</a>
 </li>
 
 <li> 

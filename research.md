@@ -26,7 +26,7 @@ I currently work with climate scientists and ocean scientists to address data an
 </p>
 <br/>
 
-Projects In Progress: 
+Projects in Progress: 
 =
 
 Uncertainty Quantification for Remote Sensing 

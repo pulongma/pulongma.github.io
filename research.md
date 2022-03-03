@@ -19,14 +19,14 @@ My statistical research is stimulated by real-world challenges and aims at addre
 <p style="text-align: justify; line-height: 1.2em;">
 I currently work with climate scientists and ocean scientists to address data analytic problems in remote sensing and coastal flood hazard studies. Motivated by such interdisciplinary collaboration, I recently focus on developing statistical methods that allow flexible model structures and scalable computations for analyzing big and complex data with spatial dependence and understanding their use in complex real-world applications including environmental mapping, probabilistic assessment of remote sensing retrievals, and risk assessment of storm surges. More specifically, they can be summarized into three directions:
 <ul>
-  <li> Statistical methods for constructing flexible covariance function models and studying their theoretical properties in both Bayesian and frequentist frameworks; </li>
-  <li> Bayesian multi-scale methods and tree-based methods for Gaussian process modeling and characterizing their theoretical properties; </li> 
+  <li> Statistical methods for constructing flexible covariance function models as well as their theoretical properties in both Bayesian and frequentist frameworks; </li>
+  <li> Bayesian multi-scale methods and tree-based methods for Gaussian process modeling as well as their theoretical properties; </li> 
   <li> Bayesian methods for emulating, calibrating, and validating complex computer models with high-dimensional/functional input and massive functional/spatial outputs. </li> 
   </ul>
 </p>
 <br/>
 
-Example Projects 
+Projects In Progress: 
 =
 
 Uncertainty Quantification for Remote Sensing 
@@ -61,11 +61,6 @@ Hurricane-driven <a href="https://www.nhc.noaa.gov/surge/" target="blank" style=
 <br>
 <br>
 
-<!--
-<li> <b>Probabilistic Assessment of Storm Surges</b> <br>
- <ul> <b>Ma, P.</b>,  Berger, J. O., Asher, T. G., Toro, G. R., and Cox, A. T. "Uncertainty Quantification in Assessing Storm Surge Hazards." To be submitted. </ul>
-</li>
--->
 
 <li> <b>Multifidelity Computer Model Emulation for Storm Surges</b> <br>
  <ul> <b> Ma, P.</b>, Karagiannis, G., Konomi, B. A., Asher, T. G., Toro, G. R., and Cox, A. T. (2020) "<a href="https://arxiv.org/abs/1909.01836" target="blank" style="color:blue;">Multifidelity Computer Model Emulation with High-Dimensional Output: An Application to Storm Surge</a>." <em>Journal of the Royal Statistical Society: Series C</em>. In Revision. </ul>

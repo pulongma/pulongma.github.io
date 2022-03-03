@@ -4,12 +4,12 @@ title: HOME
 ---
 
 
-<img align="left" style="width: 200px; padding-right: 50px;" src="./bio-photo.jpg">  
+<img align="left" style="width: 200px;" src="./bio-photo.jpg">  
 
 
 Contact Information
 ====== 
-<p style="text-align: justify; padding-left: 50px;" >
+<p style="text-align: justify; padding-left: 20px;" >
 <span style="font-size:larger;">Pulong Ma</span> <br/>
 Assistant Professor <br/>
 School of Mathematical and Statistical Sciences  <br/>

@@ -32,7 +32,7 @@ I am Assistant Professor in the <a href="https://www.clemson.edu/science/departm
 
 
 
-News & Update
+News 
 ======
 
 <p align="right" style="text-align: justify; line-height: .2em;">

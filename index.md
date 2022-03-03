@@ -9,7 +9,7 @@ title: HOME
 
 Contact Information
 ====== 
-<p style="text-align: center; padding-left: 50px;" >
+<p style="text-align: justify; padding-left: 50px;" >
 <span style="font-size:larger;">Pulong Ma</span> <br/>
 Assistant Professor <br/>
 School of Mathematical and Statistical Sciences  <br/>

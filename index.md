@@ -38,13 +38,13 @@ News
 <p align="right" style="text-align: justify; line-height: .2em;">
  
 <ul>
- <li> April 2022, I give a talk at the <a href="https://www.siam.org/conferences/cm/conference/uq22" target="blank" style="color:blue;" >SIAM Conference on Uncertainty Quantification (UQ22).</a> 
+ <li> April 2022, I will give a talk at the <a href="https://www.siam.org/conferences/cm/conference/uq22" target="blank" style="color:blue;" >SIAM Conference on Uncertainty Quantification (UQ22).</a> 
  </li>
  
- <li> April 2022, I organize a minisymposium on "Bayesian Calibration and Machine Learning Methods for Uncertainty Quantification" at the <a href="https://www.siam.org/conferences/cm/conference/uq22" target="blank" style="color:blue;" >SIAM Conference on Uncertainty Quantification (UQ22)</a>, Atlanta, GA. 
+ <li> April 2022, I will organize a minisymposium on "Bayesian Calibration and Machine Learning Methods for Uncertainty Quantification" at the <a href="https://www.siam.org/conferences/cm/conference/uq22" target="blank" style="color:blue;" >SIAM Conference on Uncertainty Quantification (UQ22)</a>, Atlanta, GA. 
  </li>
  
- <li> March 2022, I give a virtual talk in the Statistics and Data Science Seminar at Auburn University. </li>
+ <li> March 2022, I will give a virtual talk in the Statistics and Data Science Seminar at Auburn University. </li>
  <li> Jan 2022, I will serve as an Associate Editor for the <em><a href="https://www.springer.com/journal/13253" target="blank" style="color:blue;">Journal of Agricultural, Biological and Environmental Statistics (JABES)</a></em>. </li>
 </ul>
 

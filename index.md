@@ -3,20 +3,8 @@ layout: default
 title: HOME
 ---
 
-![](./bio-photo.jpg){:width="200px"}  
 
-<!-- <h1> <a href="https://drive.google.com/open?id=12cM98t-tI8z3QiZ40svZagJ0W85DO6lJ" target="blank">Curriculum Vitae </a> </h1> -->
-<!-- <h1> <a href="mailto:pulong.ma@duke.edu">Curriculum Vitae </a> </h1> -->
-
-
-
-About Me
-======
-<p style="text-align: justify; line-height: 1.2em;"> 
-I am Pulong Ma, an assistant professor in the <a href="https://www.clemson.edu/science/departments/math-stat/index.html" target="blank" style="color:blue;">School of Mathematical and Statistical Sciences</a> at <a href="https://www.clemson.edu" target="blank" syle="color:blue;">Clemson University</a> since Fall 2021. Before joining Clemson, I was a postdoctoral fellow at the Statistical and Applied Mathematical Sciences Institute (<a href="https://www.samsi.info" target="blank" style="color:blue;">SAMSI</a>) and Duke University from 2018-2021, where I participated in the 2018-2019 research program on Model Uncertainty: Mathematical and Statistical (<a href="https://www.samsi.info/model-uncertainty-mathematical-statistical-mums/" target="blank" style="color:blue;">MUMS</a>). While at SAMSI and Duke, I was working with <a href="http://www2.stat.duke.edu/~berger/" target="blank" style="color:blue;">Prof. Jim Berger</a> and <a href="http://www2.stat.duke.edu/~lm186/index.html" target="blank" style="color:blue;">Prof. Li Ma</a> in Uncertainty Quantification and Bayesian Statistics.  In 2018, I received my Ph.D. in statistics from University of Cincinnati under the guidance of <a href="https://emilystat.wixsite.com/gdads/" target="blank" style="color:blue;">Prof. Emily Kang</a> and <a href="https://scholar.google.com/citations?user=lqnGbNkAAAAJ&hl=en" target="blank" style="color:blue;">Prof. Bledar Konomi</a> with my dissertation topic in Spatial and Spatio-Temporal Statistics. </p>
-
-
-
+<img align="left" style="width:200px;" src="./bio-photo.jpg">  
 
 Contact Information
 ====== 
@@ -29,23 +17,46 @@ Clemson, SC 29634 <br/>
 Email: plma [at] clemson.edu <br/>
 Office: O-304 Martin Hall <br/>
 
+<br clear="left"/>
 
-<!--
-Employment
+
+
+About Me
 ======
-* <a href="https://www.samsi.info" target="blank" style="color:blue;">Statistical and Applied Mathematical Sciences Institute</a>, Research Triangle Park, NC <br/>
-Postdoctoral Fellow, <a href="https://www.samsi.info/model-uncertainty-mathematical-statistical-mums/" target="blank" style="color:blue;">MUMS program</a>, Aug 2018 - 2021 
-* <a href="https://stat.duke.edu" target="blank" style="color:blue;">Department of Statistical Science</a>, Duke University, Durham, NC <br/>
-Postdoctoral Fellow, Aug 2018 - 2021 <br/>
-Mentors: Dr. <a href="http://www2.stat.duke.edu/~berger/" target="blank" style="color:blue;">James O. Berger</a>, Arts and Sciences Distinguished Professor Emeritus of Statistics
--->
+<p style="text-align: justify; line-height: 1.2em;"> 
+ 
+I am Assistant professor in the <a href="https://www.clemson.edu/science/departments/math-stat/index.html" target="blank" style="color:blue;">School of Mathematical and Statistical Sciences</a> at <a href="https://www.clemson.edu" target="blank" syle="color:blue;">Clemson University</a> since Fall 2021. Before joining Clemson, I was a postdoctoral fellow at the Statistical and Applied Mathematical Sciences Institute (<a href="https://www.samsi.info" target="blank" style="color:blue;">SAMSI</a>) and Duke University from 2018-2021, where I participated in the 2018-2019 research program on Model Uncertainty: Mathematical and Statistical (<a href="https://www.samsi.info/model-uncertainty-mathematical-statistical-mums/" target="blank" style="color:blue;">MUMS</a>). While at SAMSI and Duke, I was working with <a href="http://www2.stat.duke.edu/~berger/" target="blank" style="color:blue;">Prof. Jim Berger</a> and <a href="http://www2.stat.duke.edu/~lm186/index.html" target="blank" style="color:blue;">Prof. Li Ma</a> in Uncertainty Quantification and Bayesian Statistics.  In 2018, I received my Ph.D. in statistics from University of Cincinnati under the guidance of <a href="https://emilystat.wixsite.com/gdads/" target="blank" style="color:blue;">Prof. Emily Kang</a> and <a href="https://scholar.google.com/citations?user=lqnGbNkAAAAJ&hl=en" target="blank" style="color:blue;">Prof. Bledar Konomi</a> with my dissertation topic in Spatial and Spatio-Temporal Statistics. 
+</p>
 
-<!--
-Education
+
+
+News & Update
 ======
-* Ph.D. in Statistics, University of Cincinnati, Cincinnati, OH, 2018 <br/>
-  * Dissertation title: <a href="http://rave.ohiolink.edu/etdc/view?acc_num=ucin1535635193581096" target="blank" style="color:blue;">Hierarchical Additive Spatial and Spatio-Temporal Process Models for Massive Datasets</a>
-  * Advisors: Dr. <a href="https://emilystat.wixsite.com/gdads/" target="blank" style="color:blue;">Emily L. Kang</a> and Dr. <a href="https://scholar.google.com/citations?user=lqnGbNkAAAAJ&hl=en" target="blank" style="color:blue;">Bledar A. Konomi</a>
-* B.S. in Computational Mathematics, Northeast Forestry University, China, 2013
 
--->
+<p align="right" style="text-align: justify; line-height: .2em;">
+ 
+<ul>
+ <li> April 2022, I give a talk at the <a href="https://www.siam.org/conferences/cm/conference/uq22" target="blank" style="color:blue;" >SIAM Conference on Uncertainty Quantification (UQ22).</a> 
+ </li>
+ 
+ <li> April 2022, I organize a minisymposium on "Bayesian Calibration and Machine Learning Methods for Uncertainty Quantification" at the <a href="https://www.siam.org/conferences/cm/conference/uq22" target="blank" style="color:blue;" >SIAM Conference on Uncertainty Quantification (UQ22)</a>, Atlanta, GA. 
+ </li>
+ 
+ <li> March 2022, I give a virtual talk in the Statistics and Data Science Seminar at Auburn University. </li>
+ <li> Jan 2022, I will serve as an Associate Editor for the <em><a href="https://www.springer.com/journal/13253" target="blank" style="color:blue;">Journal of Agricultural, Biological and Environmental Statistics (JABES)</a></em> starting 1/2022. </li>
+</ul>
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+

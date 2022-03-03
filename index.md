@@ -35,7 +35,7 @@ I am Assistant Professor in the <a href="https://www.clemson.edu/science/departm
 News 
 ======
 
-<p align="right" style="text-align: justify; line-height: .2em;">
+<p align="left" style="text-align: justify; line-height: .2em;">
  
 <ul>
  <li> April 2022, I will give a talk at the <a href="https://www.siam.org/conferences/cm/conference/uq22" target="blank" style="color:blue;" >SIAM Conference on Uncertainty Quantification (UQ22).</a> 

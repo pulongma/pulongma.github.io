@@ -26,7 +26,7 @@ title: PUBLICATIONS
 <li> <b> Ma, P.</b>, Karagiannis, G., Konomi, B. A., Asher, T. G., Toro, G. R., and Cox, A. T. (2022) "Multifidelity Computer Model Emulation with High-Dimensional Output: An Application to Storm Surge." <em>Journal of the Royal Statistical Society: Series C</em>. Accepted. DOI:10.1111/rssc.12558. <a href="https://arxiv.org/abs/1909.01836" target="blank" style="color:blue;">[arXiv]</a> <a href="https::/doi.org/10.1111/rssc.12558" target="blank" style="color:blue;">[JRSSC] </a> <a href="https://github.com/pulongma/PPCokriging" target="blank" style="color:blue;">[code]</a>
 </li> 
   
-<li> <b> Ma, P.</b> and Bhadra, A. (2022) "Beyond Mat&eacute;rn: On A Class of Interpretable Confluent Hypergeometric Covariance Functions." <em>Journal of the American Statistical Association, Theory and Methods</em>. Accepted. DOI:10.1080/01621459.2022.2027775. <a href="https://arxiv.org/abs/1911.05865" target="blank" style="color:blue;">[arXiv]</a> <a href="https://doi.org/10.1080/01621459.2022.2027775" target="blank" style="color:blue;">[JASA]</a>
+<li> <b> Ma, P.</b> and Bhadra, A. (2022) "Beyond Mat&eacute;rn: On A Class of Interpretable Confluent Hypergeometric Covariance Functions." <em>Journal of the American Statistical Association, T&M</em>. Accepted. DOI:10.1080/01621459.2022.2027775. <a href="https://arxiv.org/abs/1911.05865" target="blank" style="color:blue;">[arXiv]</a> <a href="https://doi.org/10.1080/01621459.2022.2027775" target="blank" style="color:blue;">[JASA]</a>
 </li>
   
 <li>

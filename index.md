@@ -4,11 +4,13 @@ title: HOME
 ---
 
 
-<img align="left" style="width:200px;" src="./bio-photo.jpg">  
+<img align="left" style="width: 200px; padding-right: 100px;" src="./bio-photo.jpg">  
+
 
 Contact Information
 ====== 
-<span style="font-size:larger;">**Pulong Ma**</span> <br/>
+<p style="text-align: center;" >
+<span style="font-size:larger;">Pulong Ma</span> <br/>
 Assistant Professor <br/>
 School of Mathematical and Statistical Sciences  <br/>
 Clemson University <br/>
@@ -16,7 +18,7 @@ Clemson University <br/>
 Clemson, SC 29634 <br/>
 Email: plma [at] clemson.edu <br/>
 Office: O-304 Martin Hall <br/>
-
+</p>
 <br clear="left"/>
 
 
@@ -29,7 +31,7 @@ I am Assistant professor in the <a href="https://www.clemson.edu/science/departm
 </p>
 
 
-
+<!---
 News & Update
 ======
 
@@ -49,7 +51,7 @@ News & Update
 </p>
 
 
-
+--->
 
 
 

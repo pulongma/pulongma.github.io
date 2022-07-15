@@ -39,7 +39,7 @@ Recent and Upcoming News
  
 <ul>
  
- <li> September 2022, I will give a poster presentation in the biennial meeting <a href="https://obayes.soe.ucsc.edu/index.html" target="blank" style="color:blue;">O'Bayes 2022</a> in University of California Santa Cruz.
+ <li> September 2022, I will give a poster presentation in the biennial meeting <a href="https://obayes.soe.ucsc.edu/index.html" target="blank" style="color:blue;">O'Bayes 2022</a> at University of California Santa Cruz.
  </li>
  
  <li> August 2022, I will organize and chair an invited session on "Advances in Multivariate Spatial Process Modeling for Environmental Data" at <a href="https://ww2.amstat.org/meetings/jsm/2022/index.cfm" target="blank" style="color:blue;">JSM 2022</a>.

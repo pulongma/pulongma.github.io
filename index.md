@@ -32,12 +32,15 @@ I am Assistant Professor in the <a href="https://www.clemson.edu/science/departm
 
 
 
-News 
+Recent and Upcoming News 
 ======
 
 <p align="left" style="text-align: justify; line-height: .2em;">
  
 <ul>
+ 
+ <li> I am excited to receive a NSF grant as PI with collaborating PI at Li Ma at Duke in the CDS&E-MSS Program "<a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2152998&HistoricalAwards=false" target="blank" style="color:blue;">Collaborative Research: Bayesian Residual Learning and Random Recursive Partitioning Methods for Gaussian Process Modeling</a>," 8/2022-7/2025.
+ 
  <li> April 2022, I will give a talk at the <a href="https://www.siam.org/conferences/cm/conference/uq22" target="blank" style="color:blue;" >SIAM Conference on Uncertainty Quantification (UQ22).</a> 
  </li>
  

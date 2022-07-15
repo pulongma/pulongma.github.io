@@ -50,6 +50,7 @@ Recent and Upcoming News
  
  <li> March 2022, I will give a virtual talk in the Statistics and Data Science Seminar at Auburn University. </li>
  <li> Starting Jan 2022, I will serve as an Associate Editor for the <em><a href="https://www.springer.com/journal/13253" target="blank" style="color:blue;">Journal of Agricultural, Biological and Environmental Statistics (JABES)</a></em>. </li>
+
 </ul>
 
 </p>

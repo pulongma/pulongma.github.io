@@ -39,10 +39,16 @@ Recent and Upcoming News
  
 <ul>
  
+ <li> September 2022, I will give a poster presentation in the biennial meeting <a href="https://obayes.soe.ucsc.edu/index.html" target="blank" style="color:blue;">O'Bayes 2022</a> in University of California Santa Cruz.
+ </li>
+ 
+ <li> August 2022, I will organize and chair an invited session on "Advances in Multivariate Spatial Process Modeling for Environmental Data" at <a href="https://ww2.amstat.org/meetings/jsm/2022/index.cfm" target="blank" style="color:blue;">JSM 2022</a>.
+ </li>
+ 
  <li> I am excited to receive a NSF grant as PI with collaborating PI Li Ma at Duke in the CDS&E-MSS Program "<a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2152998&HistoricalAwards=false" target="blank" style="color:blue;">Collaborative Research: Bayesian Residual Learning and Random Recursive Partitioning Methods for Gaussian Process Modeling</a>," 8/2022-7/2025.
  </li>
  
- <li> April 2022, I will give a talk at the <a href="https://www.siam.org/conferences/cm/conference/uq22" target="blank" style="color:blue;" >SIAM Conference on Uncertainty Quantification (UQ22).</a> 
+ <li> April 2022, I will give a talk at the <a href="https://www.siam.org/conferences/cm/conference/uq22" target="blank" style="color:blue;" >SIAM Conference on Uncertainty Quantification (UQ22)</a>.
  </li>
  
  <li> April 2022, I will organize a minisymposium on "Bayesian Calibration and Machine Learning Methods for Uncertainty Quantification" at the <a href="https://www.siam.org/conferences/cm/conference/uq22" target="blank" style="color:blue;" >SIAM Conference on Uncertainty Quantification (UQ22)</a>, Atlanta, GA. 

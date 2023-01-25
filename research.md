@@ -4,7 +4,6 @@ title: RESEARCH
 mathjax: true
 ---
 
-Research supported by NSF DMS-2152998 is greatly acknowledged. 
 
 Research Interests
 = 

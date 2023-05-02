@@ -51,7 +51,7 @@ Recent and Upcoming News
  <li> July 2023, I will give a talk in the <a href="https://www.isi2023.org/conferences/ottawa-2023/" target="blank" style="color:blue;">64th ISI World Statistics Congress</a> at Ottawa in Canada.
  </li> 
  
- <li> June 2023, I will give a talk in the <a href="https://symposium2023.icsa.org" target="blank" style="color:blue;">ICSA 2023 Applied Statistics Symposium</a> at University of Michigan, Ann Arbor, MI. 
+ <li> June 2023, I will give a talk in the invited session on "Random Partitioning Methods for Modeling Complex Data" at the  <a href="https://symposium2023.icsa.org" target="blank" style="color:blue;">ICSA 2023 Applied Statistics Symposium</a> at University of Michigan, Ann Arbor, MI. 
  </li>
  
  <li> April 2022, I gave a flash talk in the workshop <a href="https://aires.ornl.gov" target="black" style="color:blue;">AIRES4: Machine Learning for Robust Digital Twins</a> at Oak Ridge National Laboratory. 

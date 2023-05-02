@@ -39,19 +39,19 @@ Recent and Upcoming News
  
 <ul>
  
- <li> August 2023, I will give a talk in the invited session on "Gaussian processes for modeling high-dimensional and complex data" at <a href="https://ww2.amstat.org/meetings/jsm/2023/program.cfm" target="blank" style="color:blue;">JSM 2023</a>.
+ <li> August 2023, I will give a talk in the invited session titled "Gaussian Processes for Modeling High-Dimensional and Complex Data" at <a href="https://ww2.amstat.org/meetings/jsm/2023/program.cfm" target="blank" style="color:blue;">JSM 2023</a>.
  </li>
  
- <li> August 2023, I will give a virtual talk in the session on "Capturing complex space-time structures with modern spatio-temporal statistics" at the <a href="http://www.cmstatistics.org/EcoSta2023/organized.php" target="blank" style="color:blue;">EcoSta 2023: The 6th International Conference on Econometrics and Statistics</a>.
+ <li> August 2023, I will give a virtual talk in the invited session titled "Capturing Complex Space-Time Structures with Modern Spatio-Temporal Statistics" at the <a href="http://www.cmstatistics.org/EcoSta2023/organized.php" target="blank" style="color:blue;">EcoSta 2023: The 6th International Conference on Econometrics and Statistics</a>.
  </li> 
  
  <li> July 2023, I will give a talk in the <a href="https://www.elsevier.com/events/conferences/spatial-statistics" target="blank" style="color:blue;">Spatial Statistics 2023: Climate and the Environment</a> in Boulder, CO.
 </li>
   
- <li> July 2023, I will give a talk in the <a href="https://www.isi2023.org/conferences/ottawa-2023/" target="blank" style="color:blue;">64th ISI World Statistics Congress</a> at Ottawa in Canada.
+ <li> July 2023, I will give a talk in the session titled "New Statistical Methods For Surrogate Modeling And Inverse Problems" at the<a href="https://www.isi2023.org/conferences/ottawa-2023/" target="blank" style="color:blue;">64th ISI World Statistics Congress</a> in Ottawa, Canada.
  </li> 
  
- <li> June 2023, I will give a talk in the invited session on "Random Partitioning Methods for Modeling Complex Data" at the  <a href="https://symposium2023.icsa.org" target="blank" style="color:blue;">ICSA 2023 Applied Statistics Symposium</a> at University of Michigan, Ann Arbor, MI. 
+ <li> June 2023, I will give a talk in the invited session titled "Random Partitioning Methods for Modeling Complex Data" at the  <a href="https://symposium2023.icsa.org" target="blank" style="color:blue;">ICSA 2023 Applied Statistics Symposium</a> at University of Michigan, Ann Arbor, MI. 
  </li>
  
  <li> April 2023, I gave a flash talk in the <a href="https://aires.ornl.gov" target="black" style="color:blue;">AIRES4: Machine Learning for Robust Digital Twins</a> at Oak Ridge National Laboratory. 

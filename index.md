@@ -48,7 +48,7 @@ Recent and Upcoming News
  <li> July 2023, I will give a talk in the <a href="https://www.elsevier.com/events/conferences/spatial-statistics" target="blank" style="color:blue;">Spatial Statistics 2023: Climate and the Environment</a> in Boulder, CO.
 </li>
   
- <li> July 2023, I will give a talk in the session titled "New Statistical Methods For Surrogate Modeling And Inverse Problems" at the<a href="https://www.isi2023.org/conferences/ottawa-2023/" target="blank" style="color:blue;">64th ISI World Statistics Congress</a> in Ottawa, Canada.
+ <li> July 2023, I will give a talk in the session titled "New Statistical Methods For Surrogate Modeling And Inverse Problems" at the <a href="https://www.isi2023.org/conferences/ottawa-2023/" target="blank" style="color:blue;">64th ISI World Statistics Congress</a> in Ottawa, Canada.
  </li> 
  
  <li> June 2023, I will give a talk in the invited session titled "Random Partitioning Methods for Modeling Complex Data" at the  <a href="https://symposium2023.icsa.org" target="blank" style="color:blue;">ICSA 2023 Applied Statistics Symposium</a> at University of Michigan, Ann Arbor, MI. 

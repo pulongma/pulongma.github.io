@@ -23,7 +23,7 @@ I work with climate scientists and ocean scientists to address data analytic pro
 <ul>
     <li> Bayesian multi-scale methods and tree-based methods for Gaussian process modeling and their theoretical properties; (research supported by <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2152998&HistoricalAwards=false" target="blank" style="color:blue;">NSF DMS-2152998</a>) </li> 
   <li> Bayesian-frequentist theoretical foundations on constructing covariance function models and their practical usefulness; </li>
-  <li> Bayesian methods for emulating, calibrating, and validating complex computer models with high-dimensional/functional input and massive functional/spatial outputs. </li> 
+  <li> Bayesian UQ methods for scientific machine learning (SciML). </li> 
   </ul>
 </p>
 <br/>
@@ -39,7 +39,7 @@ My research is currently supported by NSF CDS&E-MSS Program DMS-2152998. Prior s
 <br/>
 -->
 
-Research Projects
+Real-World Applications
 =
 
 ### Uncertainty Quantification for Remote Sensing 

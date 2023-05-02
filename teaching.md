@@ -6,7 +6,8 @@ title: TEACHING
 <ul>
   <li> Clemson University, School of Mathematical and Statistical Sciences, Clemson, SC </li>
   <ul>
-    <li> Instructor, STAT 3090 - Introductory Business Statistics, Fall 2021, Spring 2022 </li>
+    <li> Instructor, MATH 8050 - Data Analysis: Fall 2022 (see <a href="https://drive.google.com/file/d/1LPVgkK6uNrboT3MngrjVDnaXe7HDbMlJ/view?usp=sharing" target="blank" style="color:blue;">Syllabus</a>). </li> 
+    <li> Instructor, STAT 3090 - Introductory Business Statistics: Fall 2021, Spring 2022 </li>
   </ul>
   <li> The Statistical and Applied Mathematical Sciences Institute, Durham, NC </li>
   <ul>

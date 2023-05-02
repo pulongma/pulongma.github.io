@@ -4,10 +4,11 @@ title: RESEARCH
 mathjax: true
 ---
 
+
 Research Interests
 = 
 <p style="text-align: justify; line-height: 1.2em;">  
-My statistical research is stimulated by real-world challenges and aims at addressing real-world problems in physical sciences including remote sensing science and climate science, engineering science, and medical science. My research interest is focused on developing statistical methods for understanding physical and environmental processes. It spans the following areas of statistics and machine learning:
+My statistical research is stimulated by real-world challenges and aims at addressing real-world problems in physical sciences including remote sensing science and climate science, engineering, and medical science. My research interest is focused on developing statistical methods for understanding physical and environmental processes. It spans the following areas of statistics and machine learning:
 <ul>
   <li> <b>Uncertainty Quantification (UQ)</b>: Computer model validation, computer model emulation, model discrepancy, Bayesian calibration</li>
   
@@ -20,9 +21,9 @@ My statistical research is stimulated by real-world challenges and aims at addre
 <p style="text-align: justify; line-height: 1.2em;">
 I work with climate scientists and ocean scientists to address data analytic problems in remote sensing and coastal flood hazard studies. Motivated by such interdisciplinary collaboration, I recently focus on developing statistical methods that allow flexible model structures and scalable computations for analyzing big and complex data with spatial dependence and understanding their use in complex real-world applications including environmental mapping, probabilistic assessment of remote sensing retrievals, and risk assessment of storm surges. More specifically, they can be summarized into three directions:
 <ul>
-    <li> Bayesian multi-scale methods and tree-based methods for Gaussian process modeling and their theoretical properties; </li> 
+    <li> Bayesian multi-scale methods and tree-based methods for Gaussian process modeling and their theoretical properties; (research supported by <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2152998&HistoricalAwards=false" target="blank" style="color:blue;">NSF DMS-2152998</a>) </li> 
   <li> Bayesian-frequentist theoretical foundations on constructing covariance function models and their practical usefulness; </li>
-  <li> Bayesian methods for emulating, calibrating, and validating complex computer models with high-dimensional/functional input and massive functional/spatial outputs. </li> 
+  <li> Bayesian UQ methods for scientific machine learning (SciML). </li> 
   </ul>
 </p>
 <br/>
@@ -38,7 +39,7 @@ My research is currently supported by NSF CDS&E-MSS Program DMS-2152998. Prior s
 <br/>
 -->
 
-Research Projects
+Real-World Applications
 =
 
 ### Uncertainty Quantification for Remote Sensing 

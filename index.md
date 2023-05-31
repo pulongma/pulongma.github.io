@@ -12,12 +12,11 @@ Contact Information
 <p style="text-align: left; padding-left: 20px;" >
 <span style="font-size:larger;">Pulong Ma</span> <br/>
 Assistant Professor <br/>
-School of Mathematical and Statistical Sciences  <br/>
-Clemson University <br/>
-220 Parkway Drive <br/>
-Clemson, SC 29634 <br/>
-Email: plma [at] clemson.edu <br/>
-Office: O-304 Martin Hall <br/>
+Department of Statistics  <br/>
+Iowa State University <br/>
+2438 Osborn Dr  <br/>
+Ames, IA 50011-1090 <br/>
+Email: plma [at] iastate.edu <br/>
 </p>
 <br clear="left"/>
 
@@ -27,7 +26,7 @@ About Me
 ======
 <p style="text-align: justify; line-height: 1.2em;"> 
  
-I am Assistant Professor in the <a href="https://www.clemson.edu/science/departments/math-stat/index.html" target="blank" style="color:blue;">School of Mathematical and Statistical Sciences</a> at <a href="https://www.clemson.edu" target="blank" syle="color:blue;">Clemson University</a> since Fall 2021. Before joining Clemson, I was a postdoctoral fellow at the Statistical and Applied Mathematical Sciences Institute (SAMSI) and Duke University from 2018-2021 mentored by <a href="http://www2.stat.duke.edu/~berger/" target="blank" style="color:blue;">Prof. Jim Berger</a> and <a href="http://www2.stat.duke.edu/~lm186/index.html" target="blank" style="color:blue;">Prof. Li Ma</a>, where I participated in the 2018-2019 research program on Model Uncertainty: Mathematical and Statistical (MUMS).  In 2018, I received my Ph.D. in statistics from University of Cincinnati under the guidance of <a href="https://emilystat.wixsite.com/gdads/" target="blank" style="color:blue;">Prof. Emily Kang</a> and <a href="https://scholar.google.com/citations?user=lqnGbNkAAAAJ&hl=en" target="blank" style="color:blue;">Prof. Bledar Konomi</a> with my dissertation topic in Spatial and Spatio-Temporal Statistics. 
+I am Assistant Professor in the <a href="https://www.stat.iastate.edu" target="blank" style="color:blue;">Department of Statistics</a> at <a href="https://www.iastate.edu" target="blank" style="color:blue;">Iowa State University</a> starting on June 2023. Before joining Iowa State, I was Assistant Professor in the School of Mathematical and Statistical Sciences at Clemson University during 2021-2023. During 2018-2021, I was a postdoctoral fellow at the Statistical and Applied Mathematical Sciences Institute (SAMSI) and Duke University mentored by <a href="http://www2.stat.duke.edu/~berger/" target="blank" style="color:blue;">Prof. Jim Berger</a> and <a href="http://www2.stat.duke.edu/~lm186/index.html" target="blank" style="color:blue;">Prof. Li Ma</a>, where I participated in the 2018-2019 research program on Model Uncertainty: Mathematical and Statistical (MUMS).  In 2018, I received my Ph.D. in statistics from University of Cincinnati under the guidance of <a href="https://emilystat.wixsite.com/gdads/" target="blank" style="color:blue;">Prof. Emily Kang</a> and <a href="https://scholar.google.com/citations?user=lqnGbNkAAAAJ&hl=en" target="blank" style="color:blue;">Prof. Bledar Konomi</a> with my dissertation topic in Spatial and Spatio-Temporal Statistics. 
 </p>
 
 
@@ -53,7 +52,7 @@ Recent and Upcoming News
  
  <li> June 2023, I will give a talk in the invited session titled "Random Partitioning Methods for Modeling Complex Data" at the  <a href="https://symposium2023.icsa.org" target="blank" style="color:blue;">ICSA 2023 Applied Statistics Symposium</a> at University of Michigan, Ann Arbor, MI. 
  </li>
- 
+
  <li> April 2023, I gave a flash talk in the <a href="https://aires.ornl.gov" target="black" style="color:blue;">AIRES4: Machine Learning for Robust Digital Twins</a> at Oak Ridge National Laboratory. 
  </li>
  

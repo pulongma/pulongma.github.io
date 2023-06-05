@@ -53,7 +53,7 @@ Recent and Upcoming News
  <li> June 2023, I will give a talk in the invited session titled "Random Partitioning Methods for Modeling Complex Data" at the  <a href="https://symposium2023.icsa.org" target="blank" style="color:blue;">ICSA 2023 Applied Statistics Symposium</a> at University of Michigan, Ann Arbor, MI. 
  </li>
 
- <li> April 2023, I gave a flash talk in the <a href="https://aires.ornl.gov" target="black" style="color:blue;">AIRES4: Machine Learning for Robust Digital Twins</a> at Oak Ridge National Laboratory. 
+ <li> April 2023, I gave a flash talk in the workshop <a href="https://aires.ornl.gov" target="black" style="color:blue;">AIRES4: Machine Learning for Robust Digital Twins</a> at Oak Ridge National Laboratory. 
  </li>
  
  <li> March 2023, I was visiting Department of Statistical Science at Duke University during March 16-26. 

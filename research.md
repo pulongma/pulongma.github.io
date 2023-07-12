@@ -22,22 +22,22 @@ My statistical research is stimulated by real-world challenges and aims at addre
 I work with climate scientists and ocean scientists to address data analytic problems in remote sensing and coastal flood hazard studies. Motivated by such interdisciplinary collaboration, I recently focus on developing statistical methods that allow flexible model structures and scalable computations for analyzing big and complex data with spatial dependence and understanding their use in complex real-world applications including environmental mapping, probabilistic assessment of remote sensing retrievals, and risk assessment of storm surges. More specifically, they can be summarized into three directions:
 <ul>
     <li> Bayesian multi-scale methods and tree-based methods for Gaussian process modeling and their theoretical properties; (research supported by <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2152998&HistoricalAwards=false" target="blank" style="color:blue;">NSF DMS-2152998</a>) </li> 
-  <li> Bayesian-frequentist theoretical foundations on constructing covariance function models and their practical usefulness; </li>
+  <li> Bayesian-frequentist theoretical foundations on constructing covariance function models and their practical usefulness; (research supported by <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2310419&HistoricalAwards=false" target="blank" style="color:blue;">NSF DMS-2310419</a>) </li>
   <li> Bayesian UQ methods for scientific machine learning (SciML). </li> 
   </ul>
 </p>
-<br/>
+<br>
 
-<!--
+
 Research Support
 = 
 <div style="text-align: justify; line-height: 1.2em;">
   
-My research is currently supported by NSF CDS&E-MSS Program DMS-2152998. Prior support: SAMSI Postdoctoral Fellowship and USCRP grant.  
+My research is currently supported by NSF CDS&E-MSS Program DMS-2152998 and NSF Statistics Program DMS-2310419. Prior support: SAMSI Postdoctoral Fellowship and US Army USCRP grant.  
 
 </div>
-<br/>
--->
+<br>
+
 
 Real-World Applications
 =

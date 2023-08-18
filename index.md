@@ -4,7 +4,7 @@ title: HOME
 ---
 
 
-<img align="left" style="width: 200px; padding-right: 10px;" src="./ISU_NewFaculty.jpg">  
+<img align="left" style="width: 200px; padding-right: 10px;" src="./bio-photo.jpg">  
 
 
 Contact Information

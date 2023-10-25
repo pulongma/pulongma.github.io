@@ -33,7 +33,7 @@ Research Support
 = 
 <div style="text-align: justify; line-height: 1.2em;">
   
-My research is currently supported by NSF CDS&E-MSS Program DMS-2152998 and NSF Statistics Program DMS-2310419. Prior support: SAMSI Postdoctoral Fellowship and US Army USCRP grant.  
+My research is currently supported by NSF CDS&E-MSS Program DMS-2348163/2152998 and NSF Statistics Program DMS-2348154. Prior support: SAMSI Postdoctoral Fellowship and US Army USCRP grant.  
 
 </div>
 <br>

@@ -32,7 +32,7 @@ output_dir: "."
 include:
   - .htaccess
   - _pages
-  - external 
+ # - external 
  # - index.md
  # - publications.md
  # - research.md
@@ -197,5 +197,6 @@ header_pages:
 - teaching.md
 #- presentations.md
 - CV.md
-- external/spacetime-explorer.md
+- miscellaneous.md
+# external/spacetime-explorer.md
 
